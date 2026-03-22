@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UNA — UPSC News Analysis</title>
+  <meta name="description" content="Daily curated news and opinion pieces for UPSC aspirants from top Indian publications." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-brand">
+      <div class="logo-mark">UNA</div>
+      <div class="brand-text">
+        <h1>UPSC News Analysis</h1>
+        <p class="tagline">Daily curated news for Civil Services preparation</p>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span class="update-badge" id="lastUpdated">Loading...</span>
+      <a class="refresh-btn" href="javascript:void(0)" onclick="loadNews()">↻ Refresh</a>
+    </div>
+  </header>
+
+  <!-- SEARCH BAR -->
+  <div class="search-banner">
+    <div class="search-wrap">
+      <span class="search-icon">⌕</span>
+      <input type="text" id="searchInput" class="search-input" placeholder="Search articles, topics, keywords..." autocomplete="off" />
+      <button class="search-clear" id="searchClear" onclick="clearSearch()">✕</button>
+    </div>
+  </div>
+
+  <!-- FILTER BAR -->
+  <nav class="filter-bar">
+    <div class="filter-section">
+      <span class="filter-label">Category</span>
+      <div class="category-tabs" id="categoryTabs">
+        <button class="tab active" data-cat="All">All</button>
+        <button class="tab" data-cat="Editorial">Editorial</button>
+        <button class="tab" data-cat="Opinion">Opinion</button>
+        <button class="tab" data-cat="International">International</button>
+        <button class="tab" data-cat="Economy">Economy</button>
+        <button class="tab" data-cat="Science &amp; Tech">Science &amp; Tech</button>
+        <button class="tab" data-cat="Environment">Environment</button>
+        <button class="tab" data-cat="National">National</button>
+      </div>
+    </div>
+    <div class="filter-section">
+      <span class="filter-label">Source</span>
+      <div class="source-pills" id="sourcePills">
+        <button class="pill active" data-src="All">All Sources</button>
+        <button class="pill" data-src="The Hindu">The Hindu</button>
+        <button class="pill" data-src="Indian Express">Indian Express</button>
+        <button class="pill" data-src="Economic Times">Economic Times</button>
+        <button class="pill" data-src="Livemint">Livemint</button>
+        <button class="pill" data-src="Business Standard">Business Standard</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-num" id="statTotal">0</span>
+      <span class="stat-label">articles today</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <span class="stat-num" id="statFiltered">0</span>
+      <span class="stat-label">matching filters</span>
+    </div>
+    <div class="stat-spacer"></div>
+    <div class="sort-control">
+      <label for="sortSelect">Sort by</label>
+      <select id="sortSelect" onchange="applyFilters()">
+        <option value="newest">Newest first</option>
+        <option value="oldest">Oldest first</option>
+        <option value="source">Source</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content">
+    <div class="news-grid" id="newsGrid">
+      <div class="empty-state" id="emptyState">
+        <div class="empty-icon">📰</div>
+        <h2>No articles yet</h2>
+        <p>Run the GitHub Actions workflow to fetch today's news, or run <code>python scripts/fetch_news.py</code> locally.</p>
+      </div>
+    </div>
+
+    <!-- PAGINATION -->
+    <div class="pagination" id="pagination"></div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p class="footer-brand">UNA — UPSC News Analysis</p>
+      <p class="footer-note">Sources: The Hindu · Indian Express · Economic Times · Livemint · Business Standard</p>
+      <p class="footer-note">Auto-updated daily via GitHub Actions · For educational purposes only</p>
+    </div>
+  </footer>
+
+  <!-- ARTICLE MODAL -->
+  <div class="modal-overlay" id="modalOverlay" onclick="closeModal()">
+    <div class="modal" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
