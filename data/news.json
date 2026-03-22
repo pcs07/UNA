@@ -1,22 +1,40 @@
 {
-  "last_updated": "2026-03-22T04:11:16.627655+00:00",
-  "total": 398,
+  "last_updated": "2026-03-22T04:27:34.081833+00:00",
+  "total": 386,
   "by_category": {
+    "Science & Tech": 83,
     "International": 60,
     "National": 124,
-    "Economy": 49,
+    "Economy": 47,
     "Environment": 10,
-    "Opinion": 57,
-    "Science & Tech": 84,
-    "Editorial": 14
+    "Opinion": 51,
+    "Editorial": 11
   },
   "by_source": {
-    "The Hindu": 124,
-    "Livemint": 61,
+    "Indian Express": 120,
+    "The Hindu": 119,
     "Economic Times": 90,
-    "Indian Express": 123
+    "Livemint": 57
   },
   "articles": [
+    {
+      "id": "d83614294a42",
+      "title": "Pinterest CEO calls for ban on social media for youth under 16",
+      "description": "",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/pinterest-ceo-calls-for-ban-on-social-media-for-youth-under-16-10594888/",
+      "source": "Indian Express",
+      "category": "Science & Tech",
+      "published": "2026-03-22T04:17:28+00:00"
+    },
+    {
+      "id": "7d89436fcbeb",
+      "title": "Japan could consider Hormuz minesweeping if ceasefire reached, says Foreign Minister Motegi",
+      "description": "Tokyo has no immediate plans to seek arrangements to allow passage through the Strait of ‌Hormuz for stranded Japanese vessels, Mr. Motegi said",
+      "url": "https://www.thehindu.com/news/international/japan-could-consider-hormuz-minesweeping-if-ceasefire-reached-says-foreign-minister-motegi/article70771523.ece",
+      "source": "The Hindu",
+      "category": "International",
+      "published": "2026-03-22T04:07:15+00:00"
+    },
     {
       "id": "9398cd75857d",
       "title": "Saudi Arabia reports three ballistic missiles targeted Riyadh area",
@@ -24,7 +42,7 @@
       "url": "https://www.thehindu.com/news/international/saudi-arabia-reports-three-ballistic-missiles-targeted-riyadh-area/article70771481.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T10:02:11+00:00"
+      "published": "2026-03-22T04:02:11+00:00"
     },
     {
       "id": "5ad66ba25964",
@@ -33,7 +51,7 @@
       "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-hezbollah-oil-supply-march-22-2026/article70771375.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T10:00:20+00:00"
+      "published": "2026-03-22T04:00:20+00:00"
     },
     {
       "id": "a49f42f845c3",
@@ -42,7 +60,16 @@
       "url": "https://www.thehindu.com/news/national/world-water-day-pm-modi-conservation-of-water-united-nations/article70771492.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T09:52:07+00:00"
+      "published": "2026-03-22T03:52:07+00:00"
+    },
+    {
+      "id": "4972060f0da7",
+      "title": "Cricket’s children in war-torn Beirut",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/news/sports/crickets-children-in-war-torn-beirut-a-new-sport-a-new-break-for-lebanon-kids-who-escaped-battles-and-bombing/articleshow/129727855.cms",
+      "source": "Economic Times",
+      "category": "Economy",
+      "published": "2026-03-22T03:49:41+00:00"
     },
     {
       "id": "500e82527397",
@@ -51,7 +78,7 @@
       "url": "https://www.thehindu.com/news/cities/Delhi/dus-job-fair-guidelines-stir-row-over-routine-exclusion-of-open-learning-students/article70770331.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T09:43:01+00:00"
+      "published": "2026-03-22T03:43:01+00:00"
     },
     {
       "id": "55dbb15d9444",
@@ -60,7 +87,7 @@
       "url": "https://www.livemint.com/news/india/pan-application-rules-what-changes-for-taxpayers-from-april-1-2026-11774145140225.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T09:40:45+00:00"
+      "published": "2026-03-22T03:40:45+00:00"
     },
     {
       "id": "8610e210c3a4",
@@ -69,7 +96,7 @@
       "url": "https://www.thehindu.com/news/international/explained-why-is-israel-attacking-lebanon/article70770015.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T09:32:48+00:00"
+      "published": "2026-03-22T03:32:48+00:00"
     },
     {
       "id": "71fbb8426cd5",
@@ -78,7 +105,7 @@
       "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-22-2026/article70771411.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T09:28:46+00:00"
+      "published": "2026-03-22T03:28:46+00:00"
     },
     {
       "id": "fd9e15d3e29e",
@@ -87,7 +114,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/most-cuts-in-salaries-of-top-officials-hpcc-chief-on-cm-sukhus-6-month-pay-cut-for-ministers-mlas/articleshow/129727739.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-22T09:24:05+00:00"
+      "published": "2026-03-22T03:24:05+00:00"
     },
     {
       "id": "c07dc931aa08",
@@ -96,7 +123,7 @@
       "url": "https://www.thehindu.com/news/international/irans-death-toll-in-war-now-over-1500-state-broadcaster/article70771419.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T09:20:44+00:00"
+      "published": "2026-03-22T03:20:44+00:00"
     },
     {
       "id": "a1fdc72a9a7b",
@@ -105,7 +132,7 @@
       "url": "https://www.livemint.com/news/india/lpg-cylinder-price-on-22-march-check-cooking-gas-rates-in-your-city-today-delhi-mumbai-bengaluru-others-11774148895028.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T09:20:05+00:00"
+      "published": "2026-03-22T03:20:05+00:00"
     },
     {
       "id": "c750b240b909",
@@ -114,7 +141,7 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/a-true-benevolent-authoritarian-enforces-discipline-for-the-greater-good-seeman/article70766533.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T09:18:46+00:00"
+      "published": "2026-03-22T03:18:46+00:00"
     },
     {
       "id": "52e96ac7a19e",
@@ -123,7 +150,7 @@
       "url": "https://www.thehindu.com/photos/in-frames-sanctuary-of-stories/article70771446.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T09:17:44+00:00"
+      "published": "2026-03-22T03:17:44+00:00"
     },
     {
       "id": "aa5e831c967c",
@@ -132,7 +159,7 @@
       "url": "https://indianexpress.com/article/world/us-israel-iran-war-news-live-updates-donald-trump-threats-oil-hormuz-10594811/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-22T09:10:31+00:00"
+      "published": "2026-03-22T03:10:31+00:00"
     },
     {
       "id": "2a3f43212e20",
@@ -141,7 +168,7 @@
       "url": "https://indianexpress.com/article/world/cuba-faces-second-nationwide-blackout-in-a-week-amid-us-fuel-restrictions-10594791/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-22T09:08:11+00:00"
+      "published": "2026-03-22T03:08:11+00:00"
     },
     {
       "id": "aa32e8c2002e",
@@ -150,7 +177,7 @@
       "url": "https://www.thehindu.com/entertainment/music/bts-draws-over-100000-fans-to-seoul-comeback-concert-label/article70771418.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T09:07:09+00:00"
+      "published": "2026-03-22T03:07:09+00:00"
     },
     {
       "id": "0d2630c59c33",
@@ -159,7 +186,7 @@
       "url": "https://indianexpress.com/article/world/dubai-abu-dhabi-news-live-updates-drone-attack-iran-war-10594771/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-22T09:06:55+00:00"
+      "published": "2026-03-22T03:06:55+00:00"
     },
     {
       "id": "de54b0136216",
@@ -168,7 +195,7 @@
       "url": "https://www.thehindu.com/news/international/qatar-military-helicopter-crashed-in-the-gulf/article70771421.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T09:05:59+00:00"
+      "published": "2026-03-22T03:05:59+00:00"
     },
     {
       "id": "93b7a652d5c5",
@@ -177,7 +204,7 @@
       "url": "https://economictimes.indiatimes.com/news/defence/uk-nuclear-powered-submarine-in-arabian-sea-capable-of-striking-iran-if-conflict-escalates-report/articleshow/129727602.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T08:51:32+00:00"
+      "published": "2026-03-22T02:51:32+00:00"
     },
     {
       "id": "1c6814891f6d",
@@ -186,7 +213,7 @@
       "url": "https://economictimes.indiatimes.com/news/defence/saudi-arabia-reports-3-ballistic-missiles-targeted-riyadh-area/articleshow/129727580.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T08:51:14+00:00"
+      "published": "2026-03-22T02:51:14+00:00"
     },
     {
       "id": "ea3d632be93a",
@@ -195,7 +222,7 @@
       "url": "https://www.livemint.com/news/trends/quote-of-the-day-albus-dumbledores-word-of-wisdom-on-power-those-who-are-11774143354329.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T08:45:37+00:00"
+      "published": "2026-03-22T02:45:37+00:00"
     },
     {
       "id": "37ba7a8459ef",
@@ -204,7 +231,7 @@
       "url": "https://www.thehindu.com/news/international/ice-officers-soon-will-help-with-airport-security-unless-democrats-end-shutdown-trump-says/article70771393.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T08:39:52+00:00"
+      "published": "2026-03-22T02:39:52+00:00"
     },
     {
       "id": "7921ce5f7e7b",
@@ -213,7 +240,7 @@
       "url": "https://www.livemint.com/news/india/petrol-diesel-prices-on-22-march-check-fuel-rates-in-your-city-today-delhi-mumbai-bengaluru-others-11774146237918.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T08:34:36+00:00"
+      "published": "2026-03-22T02:34:36+00:00"
     },
     {
       "id": "3c05783925f0",
@@ -222,7 +249,7 @@
       "url": "https://www.livemint.com/news/us-news/what-was-op-searchlight-us-congress-resolution-to-label-1971-pakistani-atrocities-against-bengali-hindus-as-genocide-11774145165535.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T08:28:23+00:00"
+      "published": "2026-03-22T02:28:23+00:00"
     },
     {
       "id": "7026fc1c3c60",
@@ -231,7 +258,7 @@
       "url": "https://www.thehindu.com/news/international/iran-army-says-will-target-energy-desalination-infrastructure-after-us-threats/article70771400.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T08:20:53+00:00"
+      "published": "2026-03-22T02:20:53+00:00"
     },
     {
       "id": "22337e13f127",
@@ -240,7 +267,7 @@
       "url": "https://www.thehindu.com/children/world-water-day-river-restoration-inspiring-stories-of-change/article70729632.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-22T08:11:01+00:00"
+      "published": "2026-03-22T02:11:01+00:00"
     },
     {
       "id": "f233be2bf61f",
@@ -249,7 +276,7 @@
       "url": "https://economictimes.indiatimes.com/news/economy/indicators/strait-of-hormuz-disruption-could-hit-indias-lpg-supplies-refined-product-markets-more-vulnerable-than-crude-oil-markets-report/articleshow/129727371.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T08:04:06+00:00"
+      "published": "2026-03-22T02:04:06+00:00"
     },
     {
       "id": "ed9658c10d04",
@@ -258,7 +285,7 @@
       "url": "https://www.livemint.com/news/us-news/zohran-mamdani-launches-second-nyc-pothole-blitz-what-is-it-how-to-report-a-pothole-in-your-area-11774142300275.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T07:58:13+00:00"
+      "published": "2026-03-22T01:58:13+00:00"
     },
     {
       "id": "5026fa7087c7",
@@ -267,7 +294,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-mixed-messages-on-iran-winding-down-the-war-and-easing-sanctions-but-adding-more-troops/articleshow/129727327.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T07:55:16+00:00"
+      "published": "2026-03-22T01:55:16+00:00"
     },
     {
       "id": "dd868c972f85",
@@ -276,7 +303,7 @@
       "url": "https://www.thehindu.com/news/international/trump-threatens-iran-with-power-plant-strikes-over-hormuz-blockade/article70771376.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T07:53:43+00:00"
+      "published": "2026-03-22T01:53:43+00:00"
     },
     {
       "id": "4211f94bdefb",
@@ -285,7 +312,7 @@
       "url": "https://indianexpress.com/article/india/jammu-cctv-clue-cracks-gang-behind-smart-city-signal-surveillance-disruptions-10594561/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-22T07:45:21+00:00"
+      "published": "2026-03-22T01:45:21+00:00"
     },
     {
       "id": "0291298cc16e",
@@ -294,7 +321,7 @@
       "url": "https://indianexpress.com/article/india/madhya-pradesh-bets-big-on-ai-to-improve-public-services-decision-making-across-departments-10594560/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-22T07:40:19+00:00"
+      "published": "2026-03-22T01:40:19+00:00"
     },
     {
       "id": "4b32d37dc156",
@@ -303,7 +330,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/weighty-matters-just-got-easier-10594562/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-22T07:35:22+00:00"
+      "published": "2026-03-22T01:35:22+00:00"
     },
     {
       "id": "51ddc6056d22",
@@ -312,7 +339,7 @@
       "url": "https://indianexpress.com/article/india/jinnah-chapter-triggers-row-at-jammu-university-committee-to-examine-syllabus-10594559/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-22T07:30:29+00:00"
+      "published": "2026-03-22T01:30:29+00:00"
     },
     {
       "id": "50e44373bc5c",
@@ -321,7 +348,7 @@
       "url": "https://www.livemint.com/opinion/online-views/in-cash-we-trust-the-rise-of-direct-transfers-in-election-playbooks-11774074456560.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-22T07:30:23+00:00"
+      "published": "2026-03-22T01:30:23+00:00"
     },
     {
       "id": "d6a694647cf5",
@@ -330,7 +357,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-millions-of-citizen-non-voters-10594578/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-22T07:30:08+00:00"
+      "published": "2026-03-22T01:30:08+00:00"
     },
     {
       "id": "22f4d327cbac",
@@ -339,7 +366,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-ballroom-architect-roasting-in-the-hot-seat/articleshow/129727221.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T07:23:54+00:00"
+      "published": "2026-03-22T01:23:54+00:00"
     },
     {
       "id": "f73bfb42efac",
@@ -348,7 +375,7 @@
       "url": "https://www.thehindu.com/news/international/cuba-announces-second-nationwide-blackout-in-less-than-a-week/article70771382.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T07:22:08+00:00"
+      "published": "2026-03-22T01:22:08+00:00"
     },
     {
       "id": "97ae4e297e2f",
@@ -357,7 +384,7 @@
       "url": "https://www.livemint.com/news/us-news/tsa-agents-salaries-explained-musk-offers-to-pay-workers-as-trump-threatens-to-send-ice-to-airports-11774138582878.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T07:02:01+00:00"
+      "published": "2026-03-22T01:02:01+00:00"
     },
     {
       "id": "64949d36a6b6",
@@ -366,7 +393,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/inside-track-mamatas-catch-22-10594600/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-22T07:00:42+00:00"
+      "published": "2026-03-22T01:00:42+00:00"
     },
     {
       "id": "4805325c1916",
@@ -375,7 +402,7 @@
       "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/impact-might-be-visible-from-april-1-aviation-minister-on-atf-prices/articleshow/129727132.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T06:58:55+00:00"
+      "published": "2026-03-22T00:58:55+00:00"
     },
     {
       "id": "f3947b8e02e8",
@@ -384,7 +411,7 @@
       "url": "https://indianexpress.com/article/world/trump-warning-iran-power-plants-strait-of-hormuz-reopening-10594683/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-22T06:57:21+00:00"
+      "published": "2026-03-22T00:57:21+00:00"
     },
     {
       "id": "316085fdce99",
@@ -393,7 +420,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-in-times-of-trouble-10594580/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-22T06:50:32+00:00"
+      "published": "2026-03-22T00:50:32+00:00"
     },
     {
       "id": "e5cff66120af",
@@ -402,7 +429,7 @@
       "url": "https://www.thehindu.com/news/cities/bangalore/social-welfare-department-officer-dies-at-his-office-in-tumakuru-alleges-harassment-by-senior-in-a-video/article70769730.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T06:47:09+00:00"
+      "published": "2026-03-22T00:47:09+00:00"
     },
     {
       "id": "38c19f11f588",
@@ -411,7 +438,7 @@
       "url": "https://indianexpress.com/article/india/exclusive-eight-indians-one-war-a-long-way-home-survivors-of-the-skylight-missile-attack-speak-on-life-after-the-fire-10594612/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-22T06:44:26+00:00"
+      "published": "2026-03-22T00:44:26+00:00"
     },
     {
       "id": "fbc89d05a09d",
@@ -420,7 +447,7 @@
       "url": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-highlights-hezbollah-oil-supply-march-21-2026/article70768245.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T06:40:50+00:00"
+      "published": "2026-03-22T00:40:50+00:00"
     },
     {
       "id": "5fa4e0827eb3",
@@ -429,7 +456,7 @@
       "url": "https://www.livemint.com/news/world/trump-gives-48-hour-ultimatum-to-iran-over-strait-of-hormuz-which-iranian-energy-sites-could-us-target-11774138787662.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T06:32:21+00:00"
+      "published": "2026-03-22T00:32:21+00:00"
     },
     {
       "id": "28917c967bcd",
@@ -438,7 +465,7 @@
       "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/consumer-cos-hike-prices-amid-rising-cost-of-iran-war/articleshow/129724338.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T06:30:00+00:00"
+      "published": "2026-03-22T00:30:00+00:00"
     },
     {
       "id": "3244f614f3f1",
@@ -447,7 +474,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/large-manufacturing-units-mull-kitchen-revamp-amid-lpg-crisis/articleshow/129724513.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-22T06:30:00+00:00"
+      "published": "2026-03-22T00:30:00+00:00"
     },
     {
       "id": "93a16dbaf4cd",
@@ -456,7 +483,7 @@
       "url": "https://www.livemint.com/news/world/us-israel-iran-war-live-updates-hormuz-oil-prices-trump-tehran-israel-netanyahu-natanz-attack-march-22-2026-11774137777898.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T06:23:29+00:00"
+      "published": "2026-03-22T00:23:29+00:00"
     },
     {
       "id": "9479d445fdf0",
@@ -465,7 +492,7 @@
       "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-gandhi-siblings-recast-wayanad-politics-but-local-fault-lines-persist/article70768924.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T06:06:44+00:00"
+      "published": "2026-03-22T00:06:44+00:00"
     },
     {
       "id": "8a90af05875a",
@@ -474,7 +501,7 @@
       "url": "https://www.thehindu.com/news/national/assam/tribal-council-leaders-enter-assam-electoral-contest/article70768939.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T05:43:53+00:00"
+      "published": "2026-03-21T23:43:53+00:00"
     },
     {
       "id": "d906d7347f01",
@@ -483,7 +510,7 @@
       "url": "https://www.thehindu.com/news/international/64-killed-in-attack-on-sudan-healthcare-facility-who/article70770486.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T05:33:05+00:00"
+      "published": "2026-03-21T23:33:05+00:00"
     },
     {
       "id": "db465b2f0579",
@@ -492,7 +519,7 @@
       "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-segments-under-vadakara-ls-seat-could-see-some-keen-contests/article70762424.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T05:24:20+00:00"
+      "published": "2026-03-21T23:24:20+00:00"
     },
     {
       "id": "8524bb3d7bac",
@@ -501,7 +528,7 @@
       "url": "https://indianexpress.com/article/india/pm-modi-speaks-with-iran-president-flags-attacks-on-energy-infra-shipping-lanes-10594596/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-22T04:30:31+00:00"
+      "published": "2026-03-21T22:30:31+00:00"
     },
     {
       "id": "8153bf42f868",
@@ -510,7 +537,7 @@
       "url": "https://indianexpress.com/article/india/in-a-first-himachal-pradesh-cuts-budget-outlay-by-rs-3586-cr-10594639/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-22T04:25:41+00:00"
+      "published": "2026-03-21T22:25:41+00:00"
     },
     {
       "id": "231845951e24",
@@ -519,7 +546,7 @@
       "url": "https://www.livemint.com/news/us-news/us-president-donald-trump-says-hes-glad-after-death-of-former-special-counsel-robert-mueller-11774125569269.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T03:18:26+00:00"
+      "published": "2026-03-21T21:18:26+00:00"
     },
     {
       "id": "3c63e6b37bbd",
@@ -528,7 +555,7 @@
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/kanshi-ram-returns/article70766163.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T03:03:06+00:00"
+      "published": "2026-03-21T21:03:06+00:00"
     },
     {
       "id": "bec6fdbe5ae3",
@@ -537,7 +564,7 @@
       "url": "https://www.livemint.com/news/us-news/openai-ceo-sam-altman-wins-dismissal-against-sisters-abuse-claims-from-2025-lawsuit-to-2026-ruling-how-it-unfolded-11774121177893.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T02:26:53+00:00"
+      "published": "2026-03-21T20:26:53+00:00"
     },
     {
       "id": "4c1be55a59e5",
@@ -546,7 +573,7 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/vck-under-compulsion-to-consider-local-candidates-says-thirumavalavan/article70769883.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:43:05+00:00"
+      "published": "2026-03-21T19:43:05+00:00"
     },
     {
       "id": "082810a2da4b",
@@ -555,7 +582,7 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/kamal-urges-media-to-drop-censorship-in-context-of-films/article70769144.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:43:03+00:00"
+      "published": "2026-03-21T19:43:03+00:00"
     },
     {
       "id": "56d09a163abb",
@@ -564,7 +591,7 @@
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/for-second-time-pottalurani-residents-to-boycott-polls-over-fish-waste-processing-units/article70769594.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:35:28+00:00"
+      "published": "2026-03-21T19:35:28+00:00"
     },
     {
       "id": "ea3cf3e05703",
@@ -573,7 +600,7 @@
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-cpim-meeting-to-decide-on-seat-sharing-with-dmk/article70768800.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:33:04+00:00"
+      "published": "2026-03-21T19:33:04+00:00"
     },
     {
       "id": "018aedb885d1",
@@ -582,7 +609,7 @@
       "url": "https://indianexpress.com/article/world/former-fbi-director-robert-mueller-who-investigated-russia-trump-campaign-ties-dies-10594563/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-22T01:25:53+00:00"
+      "published": "2026-03-21T19:25:53+00:00"
     },
     {
       "id": "3a12b2b1c314",
@@ -591,7 +618,7 @@
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/parties-must-avoid-excessive-freebies-focus-on-development-says-ex-minister-semmalai/article70769698.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:23:32+00:00"
+      "published": "2026-03-21T19:23:32+00:00"
     },
     {
       "id": "fdab216d2899",
@@ -600,7 +627,7 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/14-polling-stations-across-tn-to-be-in-high-rise-buildings-or-group-housing-societies/article70765895.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:23:01+00:00"
+      "published": "2026-03-21T19:23:01+00:00"
     },
     {
       "id": "f0b5884e2827",
@@ -609,7 +636,7 @@
       "url": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-inaugurates-jan-aushadi-kendra-in-karimnagar/article70770056.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:13:03+00:00"
+      "published": "2026-03-21T19:13:03+00:00"
     },
     {
       "id": "c967a2506460",
@@ -618,7 +645,7 @@
       "url": "https://www.thehindu.com/news/national/karnataka/no-blanket-exemption-for-women-teachers-above-50-from-sir-and-census-teachers-disgruntled/article70769093.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:10:24+00:00"
+      "published": "2026-03-21T19:10:24+00:00"
     },
     {
       "id": "ae5bb03c96d2",
@@ -627,7 +654,7 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/union-minister-kiren-rijiju-interacts-with-bishops-and-pastors/article70769968.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T01:03:02+00:00"
+      "published": "2026-03-21T19:03:02+00:00"
     },
     {
       "id": "71208b36d28a",
@@ -636,7 +663,7 @@
       "url": "https://www.thehindu.com/news/national/kerala/will-vadakara-witness-consolidation-of-anti-cpim-votes-again/article70769714.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:58:02+00:00"
+      "published": "2026-03-21T18:58:02+00:00"
     },
     {
       "id": "7cfaa07f1cdb",
@@ -645,7 +672,7 @@
       "url": "https://www.thehindu.com/news/national/jharkhand/without-nature-human-life-is-unimaginable-says-hemant-soren-on-sharhul/article70769579.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:53:10+00:00"
+      "published": "2026-03-21T18:53:10+00:00"
     },
     {
       "id": "651fd322a09d",
@@ -654,7 +681,7 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/cash-goods-worth-75-cr-seized-in-tn/article70769434.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:53:02+00:00"
+      "published": "2026-03-21T18:53:02+00:00"
     },
     {
       "id": "5fe4ecb37c80",
@@ -663,7 +690,7 @@
       "url": "https://www.livemint.com/news/trends/quote-of-the-day-by-aravind-srinivas-the-only-way-to-build-something-truly-great-is-to-be-extremely-opinionated-11774118730375.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T00:52:14+00:00"
+      "published": "2026-03-21T18:52:14+00:00"
     },
     {
       "id": "fe7541b80295",
@@ -672,7 +699,7 @@
       "url": "https://www.thehindu.com/news/national/centre-removes-caps-on-airfares-after-three-months/article70770279.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:49:32+00:00"
+      "published": "2026-03-21T18:49:32+00:00"
     },
     {
       "id": "79abf3b5ec1e",
@@ -681,7 +708,7 @@
       "url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:45:31+00:00"
+      "published": "2026-03-21T18:45:31+00:00"
     },
     {
       "id": "110516d8d20a",
@@ -690,7 +717,7 @@
       "url": "https://www.thehindu.com/news/national/odisha/bjd-suspends-six-mlas-for-defying-partys-whip-in-rajya-sabha-election/article70769657.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:43:02+00:00"
+      "published": "2026-03-21T18:43:02+00:00"
     },
     {
       "id": "e61d91480dc9",
@@ -699,7 +726,7 @@
       "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-is-well-positioned-to-attract-future-investments-patrick-johnson-president-lilly-international/articleshow/129724160.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T00:36:17+00:00"
+      "published": "2026-03-21T18:36:17+00:00"
     },
     {
       "id": "bf54de5a0f15",
@@ -708,7 +735,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/manipur-cm-yumnam-khemchand-singh-holds-talks-with-kuki-groups-in-guwahati/articleshow/129724124.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-22T00:34:44+00:00"
+      "published": "2026-03-21T18:34:44+00:00"
     },
     {
       "id": "062a182ef652",
@@ -717,7 +744,7 @@
       "url": "https://www.thehindu.com/news/international/robert-mueller-special-counsel-who-probed-but-did-not-charge-trump-dies-at-81/article70770315.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-22T00:33:36+00:00"
+      "published": "2026-03-21T18:33:36+00:00"
     },
     {
       "id": "5b78613f9db9",
@@ -726,7 +753,7 @@
       "url": "https://www.thehindu.com/news/national/punjab/punjab-minister-bhullar-resigns-from-cabinet-as-opposition-demands-murder-case-cbi-probe/article70769263.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:23:04+00:00"
+      "published": "2026-03-21T18:23:04+00:00"
     },
     {
       "id": "1a0c8bd9ec68",
@@ -735,7 +762,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pushkar-dhami-expands-cabinet-with-5-ministers-signals-stability-ahead-of-uttarakhand-polls/articleshow/129723930.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-22T00:23:04+00:00"
+      "published": "2026-03-21T18:23:04+00:00"
     },
     {
       "id": "29e10153c8e9",
@@ -744,7 +771,7 @@
       "url": "https://www.livemint.com/news/us-news/duggar-couple-arrested-kendra-duggar-released-from-custody-on-bond-hours-after-being-arrested-11774116688548.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T00:21:46+00:00"
+      "published": "2026-03-21T18:21:46+00:00"
     },
     {
       "id": "07858d9088f7",
@@ -753,7 +780,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/ubt-sena-targets-eknath-shinde-after-rupali-chakankar-resigns-over-ashok-kharat-row/articleshow/129723739.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-22T00:11:57+00:00"
+      "published": "2026-03-21T18:11:57+00:00"
     },
     {
       "id": "f16d55d7480b",
@@ -762,7 +789,7 @@
       "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/west-asia-war-centre-doubles-lpg-supply-to-commercial-users-to-ease-pressure/articleshow/129723630.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-22T00:07:56+00:00"
+      "published": "2026-03-21T18:07:56+00:00"
     },
     {
       "id": "220f7faf1b68",
@@ -771,7 +798,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/manipur-cm-meets-kuki-groups-in-guwahati-security-forces-recover-ieds-arms-across-state/articleshow/129723657.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-22T00:07:37+00:00"
+      "published": "2026-03-21T18:07:37+00:00"
     },
     {
       "id": "c4996abd45d2",
@@ -780,7 +807,7 @@
       "url": "https://www.livemint.com/news/us-news/who-was-robert-mueller-no-nonsense-former-fbi-chief-who-probed-russia-trump-campaign-ties-passes-away-11774107537310.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-22T00:04:14+00:00"
+      "published": "2026-03-21T18:04:14+00:00"
     },
     {
       "id": "3a27ea1257ac",
@@ -789,7 +816,7 @@
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/klu-releases-management-aptitude-test-results/article70769885.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:03:06+00:00"
+      "published": "2026-03-21T18:03:06+00:00"
     },
     {
       "id": "1f43a3f42b9d",
@@ -798,7 +825,7 @@
       "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-say-about-paid-maternity-leave/article70770019.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-22T00:02:41+00:00"
+      "published": "2026-03-21T18:02:41+00:00"
     },
     {
       "id": "20da3a28a480",
@@ -807,7 +834,7 @@
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/constituency-watch-erode-east-assembly-constituency/article70768501.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-21T23:58:51+00:00"
+      "published": "2026-03-21T17:58:51+00:00"
     },
     {
       "id": "c7a0638c871f",
@@ -816,7 +843,7 @@
       "url": "https://www.thehindu.com/news/national/south-pars-same-field-two-fates/article70770224.ece",
       "source": "The Hindu",
       "category": "National",
-      "published": "2026-03-21T23:54:18+00:00"
+      "published": "2026-03-21T17:54:18+00:00"
     },
     {
       "id": "da33d4d9ba94",
@@ -825,7 +852,7 @@
       "url": "https://www.thehindu.com/news/national/supreme-court-concerned-over-cops-uploading-videos-online-says-poses-threat-to-fair-trial/article70768980.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-21T23:53:02+00:00"
+      "published": "2026-03-21T17:53:02+00:00"
     },
     {
       "id": "ecd0b9413713",
@@ -834,7 +861,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-readies-uttar-pradesh-cabinet-reshuffle-ahead-of-polls/articleshow/129723363.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T23:52:01+00:00"
+      "published": "2026-03-21T17:52:01+00:00"
     },
     {
       "id": "364d8f992318",
@@ -843,7 +870,7 @@
       "url": "https://www.thehindu.com/news/international/qatarenergy-reports-extensive-damage-after-missile-attacks-on-ras-laffan-industrial-city/article70759501.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T23:51:48+00:00"
+      "published": "2026-03-21T17:51:48+00:00"
     },
     {
       "id": "ed5828460dda",
@@ -852,7 +879,7 @@
       "url": "https://www.livemint.com/news/trends/class-8-dropout-is-the-genius-behind-the-vishwaguru-chulha-that-can-feed-25-people-in-just-30-minutes-11774113755504.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T23:42:08+00:00"
+      "published": "2026-03-21T17:42:08+00:00"
     },
     {
       "id": "4a4f0f948457",
@@ -861,7 +888,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-size-valuation-timeline-and-other-details-we-know-so-far/articleshow/129722995.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T23:38:45+00:00"
+      "published": "2026-03-21T17:38:45+00:00"
     },
     {
       "id": "f023fb745731",
@@ -870,7 +897,7 @@
       "url": "https://www.livemint.com/news/world/bricss-independent-role-immediate-cessation-of-us-israel-conflict-and-more-inside-iran-prezs-call-with-pm-modi-11774108270322.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T23:37:01+00:00"
+      "published": "2026-03-21T17:37:01+00:00"
     },
     {
       "id": "1041bf59b355",
@@ -879,7 +906,7 @@
       "url": "https://www.thehindu.com/news/international/tucker-carlson-voice-of-america/article70770212.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T23:33:09+00:00"
+      "published": "2026-03-21T17:33:09+00:00"
     },
     {
       "id": "c93aeba8d151",
@@ -888,7 +915,7 @@
       "url": "https://www.thehindu.com/news/international/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire/article70767398.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T23:25:07+00:00"
+      "published": "2026-03-21T17:25:07+00:00"
     },
     {
       "id": "e7d9ee92d4a9",
@@ -897,7 +924,7 @@
       "url": "https://www.livemint.com/news/india/air-india-to-operate-a-total-of-50-flights-to-and-from-gulf-nations-on-sunday-amid-west-asia-conflict-details-here-11774110961225.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T23:19:11+00:00"
+      "published": "2026-03-21T17:19:11+00:00"
     },
     {
       "id": "05371f05444d",
@@ -906,7 +933,7 @@
       "url": "https://www.livemint.com/news/government-shutdown-trump-threatens-to-put-brilliant-and-patriotic-ice-agents-in-airports-11774111148270.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T23:17:49+00:00"
+      "published": "2026-03-21T17:17:49+00:00"
     },
     {
       "id": "d0655ebe1620",
@@ -915,7 +942,7 @@
       "url": "https://www.livemint.com/news/india/uttar-pradesh-barabanki-s-kintur-village-with-links-to-khamenei-foregoes-eid-festivities-to-mourn-his-death-11774108978794.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T23:10:57+00:00"
+      "published": "2026-03-21T17:10:57+00:00"
     },
     {
       "id": "b7fba446d5c0",
@@ -924,7 +951,7 @@
       "url": "https://www.thehindu.com/news/international/trumps-cuba-actions-from-blockade-to-asphyxiation/article70769323.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T23:07:43+00:00"
+      "published": "2026-03-21T17:07:43+00:00"
     },
     {
       "id": "33e3e37e40bf",
@@ -933,7 +960,7 @@
       "url": "https://economictimes.indiatimes.com/news/defence/trumps-iran-war-drive-exposes-limits-of-yes-sir-cabinet/articleshow/129722477.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T23:03:43+00:00"
+      "published": "2026-03-21T17:03:43+00:00"
     },
     {
       "id": "c24d357359c2",
@@ -942,7 +969,7 @@
       "url": "https://indianexpress.com/article/india/vikramshila-setu-safety-bhagalpur-bridge-damage-clarification-10594503/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T23:02:32+00:00"
+      "published": "2026-03-21T17:02:32+00:00"
     },
     {
       "id": "aaf986452ccf",
@@ -951,7 +978,7 @@
       "url": "https://www.thehindu.com/news/international/irans-president-says-immediate-cessation-of-us-israeli-aggression-needed-to-end-war-calls-on-brics-to-play-independent-role/article70770079.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T23:02:29+00:00"
+      "published": "2026-03-21T17:02:29+00:00"
     },
     {
       "id": "613f4404d7e6",
@@ -960,7 +987,7 @@
       "url": "https://www.livemint.com/news/us-news/nancy-guthrie-case-update-expert-suggests-more-than-one-person-was-involvement-in-her-disappearance-11774110069144.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T22:55:17+00:00"
+      "published": "2026-03-21T16:55:17+00:00"
     },
     {
       "id": "aa919238eb13",
@@ -969,7 +996,7 @@
       "url": "https://www.livemint.com/news/us-news/maga-fans-swoon-over-jessica-foster-warship-photos-in-strait-of-hormuz-but-us-army-soldier-never-existed-11774109534412.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T22:49:50+00:00"
+      "published": "2026-03-21T16:49:50+00:00"
     },
     {
       "id": "4cf2631b7107",
@@ -978,7 +1005,7 @@
       "url": "https://www.thehindu.com/news/international/iran-fired-missiles-at-joint-us-uk-base-in-indian-ocean-report/article70768326.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T22:48:36+00:00"
+      "published": "2026-03-21T16:48:36+00:00"
     },
     {
       "id": "001d685da6b5",
@@ -987,7 +1014,7 @@
       "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-ceo-campbell-wilson-warns-of-significant-hit-from-middle-east-war/articleshow/129722229.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T22:44:04+00:00"
+      "published": "2026-03-21T16:44:04+00:00"
     },
     {
       "id": "1023ecb81f4b",
@@ -996,7 +1023,7 @@
       "url": "https://www.thehindu.com/news/international/bangladesh-rushes-to-secure-2-billion-loan-amid-energy-crisis/article70770108.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T22:43:06+00:00"
+      "published": "2026-03-21T16:43:06+00:00"
     },
     {
       "id": "a750506ebe2d",
@@ -1005,7 +1032,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/coindcx-says-fir-against-cofounders-based-on-impersonation-conspiracy-flags-1212-fake-websites/articleshow/129722156.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T22:35:39+00:00"
+      "published": "2026-03-21T16:35:39+00:00"
     },
     {
       "id": "f7ebb45052c7",
@@ -1014,7 +1041,7 @@
       "url": "https://www.thehindu.com/news/international/us-struck-iran-base-threatening-blocked-strait-of-hormuz-oil-route-22-country-joint-statement/article70770106.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T22:33:10+00:00"
+      "published": "2026-03-21T16:33:10+00:00"
     },
     {
       "id": "a1133c4e9a88",
@@ -1023,7 +1050,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bjd-suspends-6-mlas-for-cross-voting-in-rs-polls-to-seek-disqualification-from-odisha-assembly/articleshow/129722110.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T22:32:48+00:00"
+      "published": "2026-03-21T16:32:48+00:00"
     },
     {
       "id": "d09240030484",
@@ -1032,7 +1059,7 @@
       "url": "https://www.livemint.com/news/world/west-asia-conflict-21-nations-including-uae-bahrain-condemn-iran-over-attacks-on-civilian-infra-vessels-in-the-gulf-11774105825093.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T22:05:29+00:00"
+      "published": "2026-03-21T16:05:29+00:00"
     },
     {
       "id": "77fcf8e35aa2",
@@ -1041,7 +1068,7 @@
       "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-bank-arm-kmcc-to-sell-part-stake-in-infina-for-rs-1294-crore/articleshow/129721743.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T22:03:15+00:00"
+      "published": "2026-03-21T16:03:15+00:00"
     },
     {
       "id": "576a8166daaa",
@@ -1050,7 +1077,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/engineers-will-be-better-off-with-emerging-new-roles-due-to-ai-say-panelists-at-webinar/article70769796.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-21T22:03:07+00:00"
+      "published": "2026-03-21T16:03:07+00:00"
     },
     {
       "id": "a19352a63187",
@@ -1059,7 +1086,7 @@
       "url": "https://www.livemint.com/news/india/rohit-shetty-house-firing-case-key-accused-nabbed-from-uttar-pradesh-total-arrests-climb-to-14-11774107635216.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T21:58:11+00:00"
+      "published": "2026-03-21T15:58:11+00:00"
     },
     {
       "id": "fa01765d74a1",
@@ -1068,7 +1095,7 @@
       "url": "https://www.livemint.com/news/world/indigo-to-operate-28-flights-to-and-from-middle-east-on-22-march-amid-conflict-dubai-abu-dhabi-and-others-schedule-11774103633450.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T21:49:38+00:00"
+      "published": "2026-03-21T15:49:38+00:00"
     },
     {
       "id": "40c61fe59fa6",
@@ -1077,7 +1104,7 @@
       "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-malala-yousafzai-one-child-one-teacher-one-book-one-pen-can-change-the-world-11774107558838.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T21:49:36+00:00"
+      "published": "2026-03-21T15:49:36+00:00"
     },
     {
       "id": "250e8736f074",
@@ -1086,7 +1113,7 @@
       "url": "https://economictimes.indiatimes.com/nri/latest-updates/trump-threatens-to-put-ice-agents-in-airports-over-funding-impasse/articleshow/129721466.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T21:42:43+00:00"
+      "published": "2026-03-21T15:42:43+00:00"
     },
     {
       "id": "2b88bf7c30bc",
@@ -1095,7 +1122,7 @@
       "url": "https://indianexpress.com/article/technology/science/not-quite-a-gas-planet-magma-ocean-world-discovered-35-light-years-from-earth-10594428/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T21:35:37+00:00"
+      "published": "2026-03-21T15:35:37+00:00"
     },
     {
       "id": "7b58a64cdce8",
@@ -1104,7 +1131,7 @@
       "url": "https://www.thehindu.com/news/international/sri-lanka-looks-to-india-backed-trincomalee-project-amid-energy-crisis/article70769118.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T21:33:09+00:00"
+      "published": "2026-03-21T15:33:09+00:00"
     },
     {
       "id": "e5b6427f34e4",
@@ -1113,7 +1140,7 @@
       "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-michelle-obama-your-story-is-what-you-have-what-you-will-always-have-11774105305982.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T21:28:20+00:00"
+      "published": "2026-03-21T15:28:20+00:00"
     },
     {
       "id": "56b18b07bfb4",
@@ -1122,7 +1149,7 @@
       "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-helen-keller-the-only-thing-worse-than-being-blind-is-11774104854078.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T21:26:09+00:00"
+      "published": "2026-03-21T15:26:09+00:00"
     },
     {
       "id": "24993097be32",
@@ -1131,7 +1158,7 @@
       "url": "https://www.thehindu.com/photos/in-pictures-id-brings-smiles-yet-stirs-scars-for-many/article70768455.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T21:23:59+00:00"
+      "published": "2026-03-21T15:23:59+00:00"
     },
     {
       "id": "4f0d390cc57c",
@@ -1140,7 +1167,7 @@
       "url": "https://indianexpress.com/article/india/pm-modi-viral-photo-child-neoom-omy-krishna-identity-10594435/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T21:20:15+00:00"
+      "published": "2026-03-21T15:20:15+00:00"
     },
     {
       "id": "4299d5a5d502",
@@ -1149,7 +1176,7 @@
       "url": "https://indianexpress.com/article/india/bjd-suspends-6-mlas-rajya-sabha-cross-voting-naveen-patnaik-dilip-ray-10594422/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T21:08:01+00:00"
+      "published": "2026-03-21T15:08:01+00:00"
     },
     {
       "id": "ffef58ffb5ff",
@@ -1158,7 +1185,7 @@
       "url": "https://www.livemint.com/news/trends/chaitra-navratri-2026-when-is-ashtami-and-navami-timings-rituals-and-dos-and-don-ts-for-fasting-11774103267616.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T21:05:03+00:00"
+      "published": "2026-03-21T15:05:03+00:00"
     },
     {
       "id": "61d3bd28f13e",
@@ -1167,7 +1194,7 @@
       "url": "https://www.livemint.com/news/india/himachal-cm-announces-six-month-salary-cuts-for-ministers-legislators-senior-officials-11774096055378.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T20:58:18+00:00"
+      "published": "2026-03-21T14:58:18+00:00"
     },
     {
       "id": "c34e1fdaf947",
@@ -1176,7 +1203,7 @@
       "url": "https://www.thehindu.com/news/national/safety-of-indians-living-in-uae-is-a-priority-envoy/article70769760.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T20:53:18+00:00"
+      "published": "2026-03-21T14:53:18+00:00"
     },
     {
       "id": "15ade4d008d6",
@@ -1185,7 +1212,7 @@
       "url": "https://economictimes.indiatimes.com/news/india/irans-president-tells-pm-modi-the-prerequisite-to-end-war-with-us-israel/articleshow/129720836.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T20:41:43+00:00"
+      "published": "2026-03-21T14:41:43+00:00"
     },
     {
       "id": "125b715f5d88",
@@ -1194,7 +1221,7 @@
       "url": "https://www.livemint.com/news/us-news/middle-east-conflict-irans-strike-on-joint-us-uk-diego-garcia-base-reveals-tehrans-yet-unknown-missile-capability-11774100031091.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T20:38:04+00:00"
+      "published": "2026-03-21T14:38:04+00:00"
     },
     {
       "id": "4ee5b887ba4c",
@@ -1203,7 +1230,7 @@
       "url": "https://www.thehindu.com/business/Industry/air-india-ceo-warns-of-travel-demand-hit-as-fuel-costs-surge-flags-possible-flight-cuts/article70769504.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-21T20:23:17+00:00"
+      "published": "2026-03-21T14:23:17+00:00"
     },
     {
       "id": "a4e1ca7c7d66",
@@ -1212,7 +1239,7 @@
       "url": "https://indianexpress.com/article/india/eid-communal-harmony-hindus-flower-showering-eidgah-ram-ramadan-10594377/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T20:21:48+00:00"
+      "published": "2026-03-21T14:21:48+00:00"
     },
     {
       "id": "709318efaf00",
@@ -1221,7 +1248,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-some-moonsmay-have-conditions-suitable-for-the-emergence-of-life/article70753578.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-21T20:10:46+00:00"
+      "published": "2026-03-21T14:10:46+00:00"
     },
     {
       "id": "77c30aec8316",
@@ -1230,7 +1257,7 @@
       "url": "https://indianexpress.com/article/india/not-just-dhakad-he-is-dhurandhar-too-rajnaths-new-praise-for-dhami-10594274/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T20:03:31+00:00"
+      "published": "2026-03-21T14:03:31+00:00"
     },
     {
       "id": "6eba87b42104",
@@ -1239,7 +1266,7 @@
       "url": "https://indianexpress.com/article/world/brics-iran-us-israel-war-india-presidency-strait-of-hormuz-energy-crisis-10594339/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-21T19:55:41+00:00"
+      "published": "2026-03-21T13:55:41+00:00"
     },
     {
       "id": "83e4b1d593ae",
@@ -1248,7 +1275,7 @@
       "url": "https://www.thehindu.com/news/international/u-s-israel-strike-on-irans-natanz-nuclear-facility/article70768830.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T19:54:21+00:00"
+      "published": "2026-03-21T13:54:21+00:00"
     },
     {
       "id": "67c4ea9aee36",
@@ -1257,7 +1284,7 @@
       "url": "https://www.thehindu.com/news/international/indian-origin-county-judge-in-us-convicted-of-money-laundering-sentencing-on-june-16/article70769084.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T19:35:28+00:00"
+      "published": "2026-03-21T13:35:28+00:00"
     },
     {
       "id": "6ccbc4adc482",
@@ -1266,7 +1293,7 @@
       "url": "https://economictimes.indiatimes.com/news/sports/ipl-2026-akash-deep-injury-news-kolkata-knight-riders-pace-crisis-fast-bowlers-ruled-out-season-opener/articleshow/129719864.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T19:32:56+00:00"
+      "published": "2026-03-21T13:32:56+00:00"
     },
     {
       "id": "245db3b36052",
@@ -1275,7 +1302,7 @@
       "url": "https://www.thehindu.com/news/international/israel-says-attacks-against-iran-will-increase-significantly-next-week-britain-condemns-tehran-targeting-diego-garcia-air-base/article70769178.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T19:32:52+00:00"
+      "published": "2026-03-21T13:32:52+00:00"
     },
     {
       "id": "9bc41ef03f3a",
@@ -1284,7 +1311,7 @@
       "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/govt-hikes-commercial-lpg-allocation-to-50-pc-as-domestic-output-improves/articleshow/129719924.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T19:32:34+00:00"
+      "published": "2026-03-21T13:32:34+00:00"
     },
     {
       "id": "a2d84dd144ec",
@@ -1293,7 +1320,7 @@
       "url": "https://indianexpress.com/article/india/purnea-murder-case-woman-killed-resisting-assault-bihar-10594303/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T19:20:45+00:00"
+      "published": "2026-03-21T13:20:45+00:00"
     },
     {
       "id": "7ba4c73f7f62",
@@ -1302,7 +1329,7 @@
       "url": "https://economictimes.indiatimes.com/news/defence/us-strikes-irans-facilities-threatening-strait-of-hormuz-targets-bases-anti-ship-missiles/articleshow/129719336.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T18:54:48+00:00"
+      "published": "2026-03-21T12:54:48+00:00"
     },
     {
       "id": "7cb652da74ac",
@@ -1311,7 +1338,7 @@
       "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/impact-should-not-be-transferred-to-passengers-aviation-minster-ram-mohan-naidu-amid-west-asia-crisis/articleshow/129719325.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T18:53:20+00:00"
+      "published": "2026-03-21T12:53:20+00:00"
     },
     {
       "id": "623bf63c4af5",
@@ -1320,16 +1347,7 @@
       "url": "https://indianexpress.com/article/technology/science/plot-twist-in-1066-that-epic-march-to-hastings-may-be-a-mythhistorians-challenge-the-legendary-march-to-hastings-10594189/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T18:33:44+00:00"
-    },
-    {
-      "id": "9b50813c20ca",
-      "title": "Bengal: TMC plans twin-front campaign from Mar 24",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/west-bengal/tmc-plans-twin-front-campaign-from-march-24-mamata-in-north-bengal-districts-abhishek-in-south/articleshow/129718638.cms",
-      "source": "Economic Times",
-      "category": "Economy",
-      "published": "2026-03-21T18:22:39+00:00"
+      "published": "2026-03-21T12:33:44+00:00"
     },
     {
       "id": "e1252ad34aa7",
@@ -1338,7 +1356,7 @@
       "url": "https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-z-trifold-2-galaxy-z-slide-rumours-leaks-launch-timeline-10594106/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T18:22:31+00:00"
+      "published": "2026-03-21T12:22:31+00:00"
     },
     {
       "id": "d32e3b8aa236",
@@ -1347,7 +1365,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-blue-origin-seeks-approval-for-space-based-data-centres-after-amazon-leo-challenged-spacex-proposal/articleshow/129718509.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T18:19:38+00:00"
+      "published": "2026-03-21T12:19:38+00:00"
     },
     {
       "id": "556ab5b83996",
@@ -1356,7 +1374,7 @@
       "url": "https://indianexpress.com/article/india/air-india-express-west-asia-flights-march-21-fare-cap-dispute-10593956/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T18:18:24+00:00"
+      "published": "2026-03-21T12:18:24+00:00"
     },
     {
       "id": "b0f084861a18",
@@ -1365,7 +1383,7 @@
       "url": "https://indianexpress.com/article/technology/science/jupiter-and-saturn-gain-more-moons-solar-system-count-rises-to-442-10594184/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T18:00:10+00:00"
+      "published": "2026-03-21T12:00:10+00:00"
     },
     {
       "id": "33b2be099119",
@@ -1374,7 +1392,7 @@
       "url": "https://www.thehindu.com/news/international/russia-drone-strike-on-zaporizhzhia-ahead-of-us-ukraine-talks/article70768978.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T17:35:31+00:00"
+      "published": "2026-03-21T11:35:31+00:00"
     },
     {
       "id": "cdb78432ce72",
@@ -1383,7 +1401,7 @@
       "url": "https://indianexpress.com/article/technology/tech-reviews/amsung-galaxy-buds-4-pro-review-10594148/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T17:34:29+00:00"
+      "published": "2026-03-21T11:34:29+00:00"
     },
     {
       "id": "5cdf402b852d",
@@ -1392,7 +1410,7 @@
       "url": "https://www.thehindu.com/news/international/iran-israel-war-united-states-west-asia-gulf-middle-east-escalating-crisis/article70702914.ece",
       "source": "The Hindu",
       "category": "International",
-      "published": "2026-03-21T17:33:15+00:00"
+      "published": "2026-03-21T11:33:15+00:00"
     },
     {
       "id": "2b366357970c",
@@ -1401,7 +1419,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/they-must-have-taken-all-factors-into-account-shashi-tharoor-reacts-to-kerala-candidate-selection/videoshow/129717669.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T17:14:16+00:00"
+      "published": "2026-03-21T11:14:16+00:00"
     },
     {
       "id": "2310b0a823b2",
@@ -1410,7 +1428,7 @@
       "url": "https://indianexpress.com/article/india/railways-renovates-73-year-old-bridge-in-uttar-pradesh-to-enhance-train-speed-cut-travel-time-10594080/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T17:10:42+00:00"
+      "published": "2026-03-21T11:10:42+00:00"
     },
     {
       "id": "981beef7d9ab",
@@ -1419,7 +1437,7 @@
       "url": "https://indianexpress.com/article/india/pm-modi-iran-president-eid-nowruz-condemn-attacks-pezeshkian-10594142/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T17:06:40+00:00"
+      "published": "2026-03-21T11:06:40+00:00"
     },
     {
       "id": "dbad2af5aecc",
@@ -1428,7 +1446,7 @@
       "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cheapest-weightloss-drugs-in-india-to-most-expensive-drugmakers-rush-in-to-win-the-business-of-losing-weight/articleshow/129717143.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T17:03:20+00:00"
+      "published": "2026-03-21T11:03:20+00:00"
     },
     {
       "id": "f422bb18c63f",
@@ -1437,7 +1455,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/pm-modi-speaks-to-iran-president-pezeshkian-on-nowruz-amid-west-asia-war/articleshow/129717486.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T17:01:15+00:00"
+      "published": "2026-03-21T11:01:15+00:00"
     },
     {
       "id": "23a144bf9684",
@@ -1446,7 +1464,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/cursor-clears-air-on-kimi-model-use-in-composer-2-heres-all-you-need-to-know/articleshow/129717236.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T16:48:45+00:00"
+      "published": "2026-03-21T10:48:45+00:00"
     },
     {
       "id": "0b8da27d0a39",
@@ -1455,7 +1473,7 @@
       "url": "https://indianexpress.com/article/india/odisha-seafarer-stuck-in-persian-gulf-amid-west-asia-tensions-family-appeals-for-safe-return-10593914/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T16:47:38+00:00"
+      "published": "2026-03-21T10:47:38+00:00"
     },
     {
       "id": "65c05ca64a7b",
@@ -1464,7 +1482,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-war-crisis-oil-prices-hormuz-us-allies-nato-troops-israel-attack-three-weeks-in-iran-war-escalates-to-likely-slip-out-of-donald-trumps-hands/articleshow/129716935.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T16:19:12+00:00"
+      "published": "2026-03-21T10:19:12+00:00"
     },
     {
       "id": "1d35f99e206c",
@@ -1473,7 +1491,7 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/it-is-necessary-to-create-a-better-understanding-of-dolphins-among-communities/article70768244.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-21T16:12:53+00:00"
+      "published": "2026-03-21T10:12:53+00:00"
     },
     {
       "id": "fc8d2e68705c",
@@ -1482,7 +1500,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/the-trump-dichotomy-if-america-is-winding-down-the-iran-war-why-are-more-warships-heading-in/articleshow/129716673.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T16:03:31+00:00"
+      "published": "2026-03-21T10:03:31+00:00"
     },
     {
       "id": "c51af2e68161",
@@ -1491,7 +1509,7 @@
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-study-reveals-what-users-expect-from-ai-and-what-worries-them-10593924/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T15:56:29+00:00"
+      "published": "2026-03-21T09:56:29+00:00"
     },
     {
       "id": "46a56d15f0fb",
@@ -1500,7 +1518,7 @@
       "url": "https://indianexpress.com/article/india/hazaribagh-school-teacher-cook-fight-mid-day-meal-bananas-probe-10594000/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T15:47:35+00:00"
+      "published": "2026-03-21T09:47:35+00:00"
     },
     {
       "id": "b446303d5278",
@@ -1509,7 +1527,7 @@
       "url": "https://indianexpress.com/article/india/feasibility-study-begins-develop-talgaria-railway-station-jharkhand-satellite-terminal-10593915/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T15:46:24+00:00"
+      "published": "2026-03-21T09:46:24+00:00"
     },
     {
       "id": "a7646fe04eae",
@@ -1518,7 +1536,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/in-an-assam-preparing-for-elections-i-met-zubeen-garg-everywhere-10593858/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T15:30:52+00:00"
+      "published": "2026-03-21T09:30:52+00:00"
     },
     {
       "id": "784d1e2d3304",
@@ -1527,7 +1545,7 @@
       "url": "https://indianexpress.com/article/india/fuel-prices-india-today-lpg-rise-petrol-diesel-10593638/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T15:27:03+00:00"
+      "published": "2026-03-21T09:27:03+00:00"
     },
     {
       "id": "d38f37381a46",
@@ -1536,7 +1554,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/the-strait-of-hormuz-was-supposed-to-be-too-big-to-fail/articleshow/129716215.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T15:15:01+00:00"
+      "published": "2026-03-21T09:15:01+00:00"
     },
     {
       "id": "9c3d2871accf",
@@ -1545,7 +1563,7 @@
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-ai-innovation-leapfrog-snowflake-md-vijayant-rai-10593942/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T15:11:11+00:00"
+      "published": "2026-03-21T09:11:11+00:00"
     },
     {
       "id": "4d2ea9154548",
@@ -1554,7 +1572,7 @@
       "url": "https://indianexpress.com/article/india/bjp-releases-3rd-list-of-candidates-for-kerala-polls-announces-9-names-for-puducherry-election-10593938/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T15:08:21+00:00"
+      "published": "2026-03-21T09:08:21+00:00"
     },
     {
       "id": "bcced6f6746d",
@@ -1563,16 +1581,7 @@
       "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iranian-navy-guides-indian-lpg-tanker-through-strait-of-hormuz-amid-miseast-war-us-israel-japan-ships-crew-member-says/articleshow/129716011.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T15:02:58+00:00"
-    },
-    {
-      "id": "871a68b65f00",
-      "title": "International Day of Forests 2026 | Theme, significance and economic importance of forest ecosystems",
-      "description": "“Forests and Economies” has been selected as the theme for International Day of Forests 2026, highlighting the role of forests in supporting livelihoods and generating economic opportunities across sectors",
-      "url": "https://www.thehindu.com/news/international-day-of-forests-2026-theme-significance-economic-importance-of-forest-ecosystems/article70768652.ece",
-      "source": "The Hindu",
-      "category": "International",
-      "published": "2026-03-21T15:02:49+00:00"
+      "published": "2026-03-21T09:02:58+00:00"
     },
     {
       "id": "9aa3e35ff94a",
@@ -1581,7 +1590,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-gas-shortage-attacks-on-qatars-lng-facility-exposes-paks-energy-vulnerability-israel-iran-war-middle-east-conflict-ras-laffan-oil-price-karachi/articleshow/129715856.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T14:54:57+00:00"
+      "published": "2026-03-21T08:54:57+00:00"
     },
     {
       "id": "62f4c76d2500",
@@ -1590,7 +1599,7 @@
       "url": "https://indianexpress.com/article/world/iran-war-day-22-trump-weighs-ground-troops-in-iran-israel-expands-strikes-tehran-us-eases-oil-sanctions-amid-strait-of-hormuz-crisis-10593830/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-21T14:45:14+00:00"
+      "published": "2026-03-21T08:45:14+00:00"
     },
     {
       "id": "f84271489790",
@@ -1599,7 +1608,7 @@
       "url": "https://www.livemint.com/opinion/a-war-that-s-redrawing-the-world-s-fault-lines-11774069536106.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-21T14:31:10+00:00"
+      "published": "2026-03-21T08:31:10+00:00"
     },
     {
       "id": "a490ae155a7a",
@@ -1608,7 +1617,7 @@
       "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/140-million-barrels-of-iranian-oil-up-for-grabs-amid-west-asia-war-can-india-get-any/articleshow/129715255.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T14:29:55+00:00"
+      "published": "2026-03-21T08:29:55+00:00"
     },
     {
       "id": "9ed8ffc6c85a",
@@ -1617,7 +1626,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/nintendo-switch-2-may-get-replaceable-batteries-under-new-eu-rules-10593908/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T14:27:14+00:00"
+      "published": "2026-03-21T08:27:14+00:00"
     },
     {
       "id": "df69e2bfce7e",
@@ -1626,7 +1635,7 @@
       "url": "https://indianexpress.com/article/technology/tech-reviews/sony-alpha-a7-v-ilce-7m5-review-price-features-india-10593845/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T14:19:55+00:00"
+      "published": "2026-03-21T08:19:55+00:00"
     },
     {
       "id": "7d228eb34368",
@@ -1635,7 +1644,7 @@
       "url": "https://indianexpress.com/article/india/violence-in-mathura-rumours-sadhus-death-stopping-cow-smugglers-highway-blocked-10593875/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T14:14:30+00:00"
+      "published": "2026-03-21T08:14:30+00:00"
     },
     {
       "id": "072318a06b41",
@@ -1644,7 +1653,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/first-randomisation-of-evm-vvpats-completed-in-assam-kerala-puducherry/articleshow/129715417.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T14:04:50+00:00"
+      "published": "2026-03-21T08:04:50+00:00"
     },
     {
       "id": "6c36ba971c27",
@@ -1653,7 +1662,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-rahul-gandhi-are-b-team-of-bjp-kerala-cm/articleshow/129715394.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T14:00:00+00:00"
+      "published": "2026-03-21T08:00:00+00:00"
     },
     {
       "id": "ed5f5da13ef6",
@@ -1662,7 +1671,7 @@
       "url": "https://indianexpress.com/article/india/centre-to-scrutinise-ongoing-jal-jeevan-mission-works-costing-over-rs-100-crore-10593861/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T13:51:51+00:00"
+      "published": "2026-03-21T07:51:51+00:00"
     },
     {
       "id": "b5b0f6b0938e",
@@ -1671,7 +1680,7 @@
       "url": "https://www.thehindu.com/business/Economy/refiners-in-india-elsewhere-in-asia-look-to-buy-iranian-oil-after-us-waives-sanctions/article70768457.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-21T13:47:28+00:00"
+      "published": "2026-03-21T07:47:28+00:00"
     },
     {
       "id": "f256140ec51a",
@@ -1680,7 +1689,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/israel-iran-war-shashi-tharoor-says-have-been-in-favour-of-doves-in-west-asia-or-other-conflicts/articleshow/129715046.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T13:38:57+00:00"
+      "published": "2026-03-21T07:38:57+00:00"
     },
     {
       "id": "bfd8c0f80eee",
@@ -1689,7 +1698,7 @@
       "url": "https://indianexpress.com/article/world/balendra-shah-to-take-oath-as-nepal-pm-on-ram-navami-janakpur-10593839/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-21T13:37:43+00:00"
+      "published": "2026-03-21T07:37:43+00:00"
     },
     {
       "id": "b7506a380a98",
@@ -1698,7 +1707,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/moral-cowardice-and-political-betrayal-of-indias-civilisational-values-jairam-ramesh-slams-centre-over-silence-on-west-asia-conflict/articleshow/129715034.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T13:28:18+00:00"
+      "published": "2026-03-21T07:28:18+00:00"
     },
     {
       "id": "1196565de546",
@@ -1707,7 +1716,7 @@
       "url": "https://indianexpress.com/article/world/us-news/trump-weighs-secretive-elite-unit-deployment-to-seize-irans-nuclear-stockpile-report-10593596/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-21T13:26:03+00:00"
+      "published": "2026-03-21T07:26:03+00:00"
     },
     {
       "id": "125b762ba7a5",
@@ -1716,7 +1725,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/gujarat-ucc-cut-copy-paste-bill-squanders-opportunity-reform-10593822/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T13:25:03+00:00"
+      "published": "2026-03-21T07:25:03+00:00"
     },
     {
       "id": "5984ac4e6141",
@@ -1725,7 +1734,7 @@
       "url": "https://www.thehindu.com/sci-tech/health/the-rising-tide-of-eco%E2%80%90anxiety-among-indias-youth-a-call-for-climate-resilience/article70749320.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-21T13:18:22+00:00"
+      "published": "2026-03-21T07:18:22+00:00"
     },
     {
       "id": "aa9ba5fa7d1f",
@@ -1734,7 +1743,7 @@
       "url": "https://indianexpress.com/article/india/muslim-man-assaulted-by-gau-sevaks-for-transporting-cows-in-haridwar-5-detained-10593789/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T13:12:00+00:00"
+      "published": "2026-03-21T07:12:00+00:00"
     },
     {
       "id": "9e7e78f053b9",
@@ -1743,7 +1752,7 @@
       "url": "https://www.thehindu.com/opinion/columns/devdutt-pattanaik-ravana-ratanpur-ramayana-sri-lanka-madhya-pradesh/article70753689.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-21T13:00:11+00:00"
+      "published": "2026-03-21T07:00:11+00:00"
     },
     {
       "id": "512e70a9cfad",
@@ -1752,7 +1761,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/amazon-acquires-swiss-robotics-company-rivr-to-test-robots-for-doorstep-delivery/articleshow/129714541.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T12:48:51+00:00"
+      "published": "2026-03-21T06:48:51+00:00"
     },
     {
       "id": "786a34922aa6",
@@ -1761,7 +1770,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/who-is-jasjeet-sekhon-academic-trailblazer-who-joined-google-deepmind-as-chief-strategy-officer/articleshow/129714367.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T12:38:07+00:00"
+      "published": "2026-03-21T06:38:07+00:00"
     },
     {
       "id": "218f51a434af",
@@ -1770,7 +1779,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/shashi-tharoor-always-stands-with-country-mos-defence-sanjay-seth-on-tharoors-west-asia-statement/articleshow/129714355.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T12:33:17+00:00"
+      "published": "2026-03-21T06:33:17+00:00"
     },
     {
       "id": "cee43f34c1e3",
@@ -1779,7 +1788,7 @@
       "url": "https://www.livemint.com/economy/buying-property-in-south-mumbai-middle-east-conflict-could-make-it-costlier-heres-how-11774067467785.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-21T12:22:46+00:00"
+      "published": "2026-03-21T06:22:46+00:00"
     },
     {
       "id": "ec0b3f37e9aa",
@@ -1788,7 +1797,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/delhi-court-grants-time-to-mallikarjun-kharge-to-file-reply-in-revision-against-dismissal-of-complaint/articleshow/129714208.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T12:16:20+00:00"
+      "published": "2026-03-21T06:16:20+00:00"
     },
     {
       "id": "c938bf28d493",
@@ -1797,7 +1806,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/satara-zilla-parishad-setback-minister-warns-bjp-of-fallout-after-sena-ncp-defeat-in-future-polls/articleshow/129713622.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T11:38:12+00:00"
+      "published": "2026-03-21T05:38:12+00:00"
     },
     {
       "id": "960af8219d95",
@@ -1806,7 +1815,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/obituary-chuck-norris-didnt-die-god-just-needed-a-bodyguard-10593623/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T11:30:19+00:00"
+      "published": "2026-03-21T05:30:19+00:00"
     },
     {
       "id": "5f47078e1900",
@@ -1815,7 +1824,7 @@
       "url": "https://www.thehindu.com/opinion/editorial/renewal-vs-change-on-the-poll-scene-in-tamil-nadu/article70766367.ece",
       "source": "The Hindu",
       "category": "Editorial",
-      "published": "2026-03-21T11:21:17+00:00"
+      "published": "2026-03-21T05:21:17+00:00"
     },
     {
       "id": "0ed1e1a8d501",
@@ -1824,7 +1833,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/jury-finds-elon-musk-misled-investors-during-twitter-purchase-absolves-him-of-some-fraud-claims/article70767392.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-21T11:06:57+00:00"
+      "published": "2026-03-21T05:06:57+00:00"
     },
     {
       "id": "8b2210df910d",
@@ -1833,7 +1842,7 @@
       "url": "https://indianexpress.com/article/india/delhi-weather-forecast-fog-rain-alert-imd-update-march-21-2026-10593523/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T10:58:10+00:00"
+      "published": "2026-03-21T04:58:10+00:00"
     },
     {
       "id": "8b04d9442dc6",
@@ -1842,7 +1851,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-workers-go-all-in-on-ai-but-returns-may-be-flattening-10593495/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T10:20:05+00:00"
+      "published": "2026-03-21T04:20:05+00:00"
     },
     {
       "id": "5d686b18a7ac",
@@ -1851,7 +1860,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/omar-abdullah-says-eci-gerrymandering-wont-work-in-west-bengal-mamata-will-emerge-victorious/articleshow/129712743.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T10:06:00+00:00"
+      "published": "2026-03-21T04:06:00+00:00"
     },
     {
       "id": "e67612d56753",
@@ -1860,7 +1869,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop-10593486/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T09:51:40+00:00"
+      "published": "2026-03-21T03:51:40+00:00"
     },
     {
       "id": "4a364008cbcc",
@@ -1869,7 +1878,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/tripura-bjp-intensifies-preparations-for-ttaadc-polls-candidate-list-likely-soon/articleshow/129711814.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T09:18:34+00:00"
+      "published": "2026-03-21T03:18:34+00:00"
     },
     {
       "id": "fbbf70e6cc55",
@@ -1878,7 +1887,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/cost-concerns-delay-safer-building-codes-despite-himalayan-threats/article70758079.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-21T09:15:15+00:00"
+      "published": "2026-03-21T03:15:15+00:00"
     },
     {
       "id": "cffd2b8cd261",
@@ -1887,7 +1896,7 @@
       "url": "https://indianexpress.com/article/world/us-news/donald-trump-iran-conflict-us-objectives-update-10593343/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-21T08:48:27+00:00"
+      "published": "2026-03-21T02:48:27+00:00"
     },
     {
       "id": "44cd851357bd",
@@ -1896,7 +1905,7 @@
       "url": "https://www.thehindu.com/opinion/op-ed/undemocratic-politics-in-great-nicobar-over-land/article70766752.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-21T08:34:45+00:00"
+      "published": "2026-03-21T02:34:45+00:00"
     },
     {
       "id": "c49c23bd25ae",
@@ -1905,7 +1914,7 @@
       "url": "https://www.thehindu.com/news/international/pentagon-to-adopt-palantir-aias-core-us-military-system-memo-says/article70767406.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-21T08:22:38+00:00"
+      "published": "2026-03-21T02:22:38+00:00"
     },
     {
       "id": "e60b601fe698",
@@ -1914,7 +1923,7 @@
       "url": "https://www.thehindu.com/opinion/lead/indias-iran-stance-does-fuel-a-foreign-policy-debate/article70766711.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-21T08:13:25+00:00"
+      "published": "2026-03-21T02:13:25+00:00"
     },
     {
       "id": "be07d1341ebd",
@@ -1923,7 +1932,7 @@
       "url": "https://indianexpress.com/article/india/year-after-stampede-goa-steps-up-jatra-safety-with-watchtowers-control-room-multiple-entry-points-10593157/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T08:08:25+00:00"
+      "published": "2026-03-21T02:08:25+00:00"
     },
     {
       "id": "10e172fe04e1",
@@ -1932,7 +1941,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/judge-for-now-dismisses-lawsuit-by-sam-altmans-sister-accusing-openai-ceo-of-sexual-abuse/articleshow/129711959.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T08:04:09+00:00"
+      "published": "2026-03-21T02:04:09+00:00"
     },
     {
       "id": "9dec87ff48cf",
@@ -1941,7 +1950,7 @@
       "url": "https://indianexpress.com/article/world/us-temporary-licence-to-iran-to-sell-oil-trump-lower-gas-prices-10593321/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-21T07:54:35+00:00"
+      "published": "2026-03-21T01:54:35+00:00"
     },
     {
       "id": "0753822c51d4",
@@ -1950,7 +1959,7 @@
       "url": "https://indianexpress.com/article/india/how-j-k-police-helped-75-year-old-up-woman-find-her-family-after-11-years-10593158/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T07:50:26+00:00"
+      "published": "2026-03-21T01:50:26+00:00"
     },
     {
       "id": "da590fb8d148",
@@ -1959,7 +1968,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/roblox-to-overhaul-ad-policies-introduce-revenue-sharing-in-2027/articleshow/129711858.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T07:42:48+00:00"
+      "published": "2026-03-21T01:42:48+00:00"
     },
     {
       "id": "4ac958e8fffa",
@@ -1968,7 +1977,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/pinterest-ceo-calls-for-ban-on-social-media-for-youth-under-16/articleshow/129711844.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T07:39:30+00:00"
+      "published": "2026-03-21T01:39:30+00:00"
     },
     {
       "id": "5f775bf5f171",
@@ -1977,7 +1986,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/us-jury-finds-elon-musk-misled-twitter-shareholders/articleshow/129711784.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-21T07:35:21+00:00"
+      "published": "2026-03-21T01:35:21+00:00"
     },
     {
       "id": "242cade0a81c",
@@ -1986,7 +1995,7 @@
       "url": "https://www.livemint.com/opinion/kp-singh-dlf-limited-gurgaon-private-city-india-luxury-housing-cyber-city-dlf-camellias-11773971210187.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-21T07:30:44+00:00"
+      "published": "2026-03-21T01:30:44+00:00"
     },
     {
       "id": "fbb49cb1f972",
@@ -1995,7 +2004,7 @@
       "url": "https://www.livemint.com/economy/the-week-in-charts-iran-war-impact-us-fed-decision-hdfc-bank-crisis-11773906618326.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-21T07:30:44+00:00"
+      "published": "2026-03-21T01:30:44+00:00"
     },
     {
       "id": "24144d494704",
@@ -2004,7 +2013,7 @@
       "url": "https://indianexpress.com/article/opinion/editorials/ganga-belongs-to-all-dont-discriminate-10593192/",
       "source": "Indian Express",
       "category": "Editorial",
-      "published": "2026-03-21T07:25:49+00:00"
+      "published": "2026-03-21T01:25:49+00:00"
     },
     {
       "id": "67ae61a36205",
@@ -2013,7 +2022,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/political-class-must-come-together-on-iran-war-ruling-party-should-reach-out-10593183/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T07:23:03+00:00"
+      "published": "2026-03-21T01:23:03+00:00"
     },
     {
       "id": "ba9a2f62bac4",
@@ -2022,7 +2031,7 @@
       "url": "https://indianexpress.com/article/opinion/editorials/in-north-korea-the-07-per-cent-opposition-10593182/",
       "source": "Indian Express",
       "category": "Editorial",
-      "published": "2026-03-21T07:22:52+00:00"
+      "published": "2026-03-21T01:22:52+00:00"
     },
     {
       "id": "dd6c7ba22a5c",
@@ -2031,7 +2040,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/indias-food-aid-to-war-torn-afghanistan-is-a-powerful-message-10593194/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T07:22:22+00:00"
+      "published": "2026-03-21T01:22:22+00:00"
     },
     {
       "id": "4a17a1022d59",
@@ -2040,7 +2049,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/when-ai-enters-law-class-the-teacher-must-change-10593153/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T07:22:20+00:00"
+      "published": "2026-03-21T01:22:20+00:00"
     },
     {
       "id": "f8abb624f49b",
@@ -2049,7 +2058,7 @@
       "url": "https://indianexpress.com/article/opinion/editorials/what-makes-glp-1-drugs-transformative-also-make-them-susceptible-to-misuse-10593191/",
       "source": "Indian Express",
       "category": "Editorial",
-      "published": "2026-03-21T07:22:08+00:00"
+      "published": "2026-03-21T01:22:08+00:00"
     },
     {
       "id": "00f40a96a84f",
@@ -2058,7 +2067,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/our-water-challenge-is-stark-here-are-four-ways-to-reimagine-the-solution-10593116/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T07:21:29+00:00"
+      "published": "2026-03-21T01:21:29+00:00"
     },
     {
       "id": "1697fdf61c31",
@@ -2067,7 +2076,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/bjp-could-see-a-surge-in-all-pound-bound-states-10593193/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T07:21:21+00:00"
+      "published": "2026-03-21T01:21:21+00:00"
     },
     {
       "id": "f335561bc32c",
@@ -2076,7 +2085,7 @@
       "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-march-21-1986-us-and-pak-bases-10593117/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-21T07:15:30+00:00"
+      "published": "2026-03-21T01:15:30+00:00"
     },
     {
       "id": "b7c0d8f9e317",
@@ -2085,7 +2094,7 @@
       "url": "https://indianexpress.com/article/technology/climate-tech-startups-india-ankur-shrivastava-interview-10592716/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-21T07:00:10+00:00"
+      "published": "2026-03-21T01:00:10+00:00"
     },
     {
       "id": "fd94bfcaf0f9",
@@ -2094,7 +2103,7 @@
       "url": "https://www.livemint.com/opinion/columns/chatgpt-tips-effective-prompts-communication-clarity-context-refinement-11773910979399.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-21T06:30:43+00:00"
+      "published": "2026-03-21T00:30:43+00:00"
     },
     {
       "id": "40ec4508cd7c",
@@ -2103,7 +2112,7 @@
       "url": "https://www.livemint.com/economy/indias-cotton-acreage-loses-ground-to-rice-maize-amid-low-productivity-farmers-exports-11773922589504.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-21T06:30:23+00:00"
+      "published": "2026-03-21T00:30:23+00:00"
     },
     {
       "id": "555432734d1d",
@@ -2112,7 +2121,7 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/eid-vibes-go-missing-on-dubais-deserted-streets-amid-war/articleshow/129708376.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T06:00:00+00:00"
+      "published": "2026-03-21T00:00:00+00:00"
     },
     {
       "id": "c115ebdba9b0",
@@ -2121,7 +2130,7 @@
       "url": "https://indianexpress.com/article/india/high-level-committee-meeting-govt-asks-whatsapp-to-block-device-ids-used-in-digital-arrest-scams-10593222/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T04:50:11+00:00"
+      "published": "2026-03-20T22:50:11+00:00"
     },
     {
       "id": "f1c21eee8178",
@@ -2130,7 +2139,7 @@
       "url": "https://indianexpress.com/article/india/another-indian-killed-in-missile-attack-on-riyadh-toll-up-to-six-10593207/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T04:30:53+00:00"
+      "published": "2026-03-20T22:30:53+00:00"
     },
     {
       "id": "c2dec42e1763",
@@ -2139,7 +2148,7 @@
       "url": "https://www.thehindu.com/business/Economy/iran-war-impact-pesticide-industry-warns-of-price-rise-spread-of-fake-materials/article70766080.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-21T03:14:24+00:00"
+      "published": "2026-03-20T21:14:24+00:00"
     },
     {
       "id": "99e46d76b937",
@@ -2148,7 +2157,7 @@
       "url": "https://indianexpress.com/article/india/capf-bill-set-to-be-introduced-in-rajya-sabha-on-march-23-10593160/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T01:18:28+00:00"
+      "published": "2026-03-20T19:18:28+00:00"
     },
     {
       "id": "4390048c6586",
@@ -2157,7 +2166,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/manipur-congress-reorganizes-ahead-of-polls-new-political-affairs-committee-vps-and-general-secretaries-appointed/articleshow/129708140.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T01:15:19+00:00"
+      "published": "2026-03-20T19:15:19+00:00"
     },
     {
       "id": "362ce9ec8271",
@@ -2166,7 +2175,7 @@
       "url": "https://indianexpress.com/article/india/election-commission-sets-up-19-appellate-tribunals-for-bengal-sir-appeals-10593113/",
       "source": "Indian Express",
       "category": "National",
-      "published": "2026-03-21T00:56:35+00:00"
+      "published": "2026-03-20T18:56:35+00:00"
     },
     {
       "id": "ab261d43a902",
@@ -2175,7 +2184,7 @@
       "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/war-in-west-asia-has-squeezed-the-skies/articleshow/129707867.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-21T00:49:46+00:00"
+      "published": "2026-03-20T18:49:46+00:00"
     },
     {
       "id": "7abfa239455c",
@@ -2184,7 +2193,7 @@
       "url": "https://www.livemint.com/politics/irans-government-seen-as-tightening-grip-despite-strikes-11774031796486.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-21T00:36:36+00:00"
+      "published": "2026-03-20T18:36:36+00:00"
     },
     {
       "id": "f8e20176f56a",
@@ -2193,7 +2202,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-urges-centre-to-cut-fuel-taxes-to-cushion-iran-war-impact-on-prices/articleshow/129707522.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-21T00:34:41+00:00"
+      "published": "2026-03-20T18:34:41+00:00"
     },
     {
       "id": "2095aa618413",
@@ -2202,7 +2211,7 @@
       "url": "https://www.thehindu.com/opinion/editorial/restoring-rights-on-the-hamsaanandini-nanduri-vs-union-of-india-case/article70766020.ece",
       "source": "The Hindu",
       "category": "Editorial",
-      "published": "2026-03-21T00:34:16+00:00"
+      "published": "2026-03-20T18:34:16+00:00"
     },
     {
       "id": "4c18cf90c744",
@@ -2211,7 +2220,7 @@
       "url": "https://www.thehindu.com/opinion/letters/letters-to-the-editor-march-21-2026/article70766864.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T23:44:18+00:00"
+      "published": "2026-03-20T17:44:18+00:00"
     },
     {
       "id": "7570993018ce",
@@ -2220,7 +2229,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-issues-show-cause-notice-to-fifth-haryana-mla-for-cross-voting-in-rajya-sabha-polls/articleshow/129706159.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T23:43:46+00:00"
+      "published": "2026-03-20T17:43:46+00:00"
     },
     {
       "id": "f641c4cb7de8",
@@ -2229,7 +2238,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/uk-aerospace-company-wins-lawsuit-against-ex-ceo-who-lobbied-against-chinese-investment-deal/articleshow/129706180.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T23:34:19+00:00"
+      "published": "2026-03-20T17:34:19+00:00"
     },
     {
       "id": "02bcb4a45b4b",
@@ -2238,7 +2247,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/jagan-sharmila-asset-dispute-mother-questions-ysrcp-chiefs-conduct-bats-for-daughters-share/articleshow/129706119.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T23:30:06+00:00"
+      "published": "2026-03-20T17:30:06+00:00"
     },
     {
       "id": "2c67ed6641a5",
@@ -2247,7 +2256,7 @@
       "url": "https://indianexpress.com/article/world/sri-lanka-refuses-us-warplanes-missiles-mattala-airport-dissanayake-iran-frigate-10593066/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T23:15:39+00:00"
+      "published": "2026-03-20T17:15:39+00:00"
     },
     {
       "id": "b7f506e7f770",
@@ -2256,7 +2265,7 @@
       "url": "https://indianexpress.com/article/world/trumps-on-a-deal-making-spree-turn-next-to-transylvania-10593051/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T23:07:04+00:00"
+      "published": "2026-03-20T17:07:04+00:00"
     },
     {
       "id": "6b14960f3bf7",
@@ -2265,7 +2274,7 @@
       "url": "https://indianexpress.com/article/world/us-airport-security-delays-tsa-staffing-government-shutdown-tips-10592873/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T23:00:12+00:00"
+      "published": "2026-03-20T17:00:12+00:00"
     },
     {
       "id": "0e3de01647d0",
@@ -2274,7 +2283,7 @@
       "url": "https://indianexpress.com/article/world/a-crucial-loan-for-ukraine-becomes-election-leverage-for-orban-10593037/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T22:58:34+00:00"
+      "published": "2026-03-20T16:58:34+00:00"
     },
     {
       "id": "c07b2da6261a",
@@ -2283,7 +2292,7 @@
       "url": "https://www.thehindu.com/business/Economy/price-of-premium-petrol-up-2-per-litre-government-says-no-impact-on-common-man/article70766519.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-20T22:54:27+00:00"
+      "published": "2026-03-20T16:54:27+00:00"
     },
     {
       "id": "b6e548261ea2",
@@ -2292,7 +2301,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-20-billion-groq-deal-queried-by-elizabeth-warren-richard-blumenthal/articleshow/129705446.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T22:51:11+00:00"
+      "published": "2026-03-20T16:51:11+00:00"
     },
     {
       "id": "d7452411ded4",
@@ -2301,7 +2310,7 @@
       "url": "https://indianexpress.com/article/world/mojtaba-khamenei-nowruz-message-war-us-warships-deployment-10593001/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T22:48:21+00:00"
+      "published": "2026-03-20T16:48:21+00:00"
     },
     {
       "id": "d30c20f876ab",
@@ -2310,7 +2319,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/my-home-in-iran-has-been-bombed-14-times-since-the-war-began-my-people-and-i-feel-betrayed-by-the-west-10592997/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T22:35:37+00:00"
+      "published": "2026-03-20T16:35:37+00:00"
     },
     {
       "id": "a3a1d4ea9514",
@@ -2319,7 +2328,7 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/lethargic-officials-who-left-chambal-sanctuary-to-the-mercy-of-sand-miners-will-be-held-liable-sc/article70766571.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-20T22:34:18+00:00"
+      "published": "2026-03-20T16:34:18+00:00"
     },
     {
       "id": "9acb6edecda1",
@@ -2328,7 +2337,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-candidates-list-finalised-within-3-days-not-so-by-ldf-nda-a-k-antony/articleshow/129705064.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T22:34:18+00:00"
+      "published": "2026-03-20T16:34:18+00:00"
     },
     {
       "id": "f094062c8a3b",
@@ -2337,7 +2346,7 @@
       "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-sacks-3-senior-executives-over-credit-suisse-at1-bond-mis-selling-allegations/articleshow/129704988.cms",
       "source": "Economic Times",
       "category": "Economy",
-      "published": "2026-03-20T22:33:17+00:00"
+      "published": "2026-03-20T16:33:17+00:00"
     },
     {
       "id": "3841db56f086",
@@ -2346,7 +2355,7 @@
       "url": "https://indianexpress.com/article/world/us-news/day-21-iran-war-trump-mulls-kharg-island-takeover-slams-nato-rift-with-israel-widens-10592967/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T22:32:14+00:00"
+      "published": "2026-03-20T16:32:14+00:00"
     },
     {
       "id": "076cdf32c44d",
@@ -2355,7 +2364,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/punjab-to-add-100-aam-aadmi-clinics-this-month-400-more-planned-cm-bhagwant-mann/articleshow/129704823.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T22:13:44+00:00"
+      "published": "2026-03-20T16:13:44+00:00"
     },
     {
       "id": "28a5a93e1023",
@@ -2364,7 +2373,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/tvs-capital-invests-rs-500-crore-in-neo-group-at-rs-10000-crore-valuation/articleshow/129704482.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T22:00:28+00:00"
+      "published": "2026-03-20T16:00:28+00:00"
     },
     {
       "id": "56796e133d37",
@@ -2373,7 +2382,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-hc-advises-cm-to-steer-clear-of-official-transfers/articleshow/129704554.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T21:58:19+00:00"
+      "published": "2026-03-20T15:58:19+00:00"
     },
     {
       "id": "a5f0ff9bf703",
@@ -2382,7 +2391,7 @@
       "url": "https://indianexpress.com/article/world/global-energy-security-iran-conflict-strait-of-hormuz-oil-gas-prices-impact-india-europe-10592659/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T21:51:49+00:00"
+      "published": "2026-03-20T15:51:49+00:00"
     },
     {
       "id": "9bd446219b20",
@@ -2391,7 +2400,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/xai-sends-engineers-to-client-sites-to-win-business-from-openai/articleshow/129704483.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T21:50:52+00:00"
+      "published": "2026-03-20T15:50:52+00:00"
     },
     {
       "id": "568b4e97f138",
@@ -2400,7 +2409,7 @@
       "url": "https://indianexpress.com/article/world/reeling-from-the-iran-wars-oil-shock-and-running-out-of-ideas-10592912/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T21:43:42+00:00"
+      "published": "2026-03-20T15:43:42+00:00"
     },
     {
       "id": "c52601af12d3",
@@ -2409,7 +2418,7 @@
       "url": "https://indianexpress.com/article/world/national-interests-iran-us-end-hostilities-oman-foreign-minister-10592899/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T21:34:09+00:00"
+      "published": "2026-03-20T15:34:09+00:00"
     },
     {
       "id": "7d3252d90978",
@@ -2418,7 +2427,7 @@
       "url": "https://indianexpress.com/article/world/donald-trump-nato-cowards-strait-of-hormuz-iran-israel-war-oil-prices-10592835/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T21:30:54+00:00"
+      "published": "2026-03-20T15:30:54+00:00"
     },
     {
       "id": "cdaa237458f2",
@@ -2427,7 +2436,7 @@
       "url": "https://indianexpress.com/article/world/trump-administration-sues-harvard-over-treatment-of-jewish-and-israeli-students-seeks-billions-of-dollars-10592843/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T21:12:33+00:00"
+      "published": "2026-03-20T15:12:33+00:00"
     },
     {
       "id": "c8445fbae6ba",
@@ -2436,7 +2445,7 @@
       "url": "https://indianexpress.com/article/world/one-global-power-one-regional-power-two-different-goals-10592636/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T21:09:31+00:00"
+      "published": "2026-03-20T15:09:31+00:00"
     },
     {
       "id": "2ab302695233",
@@ -2445,7 +2454,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/eci-mandates-pre-certification-of-political-ads-on-social-electronic-media-ahead-of-elections/articleshow/129703753.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T21:08:30+00:00"
+      "published": "2026-03-20T15:08:30+00:00"
     },
     {
       "id": "6a1c09dc5e8e",
@@ -2454,7 +2463,7 @@
       "url": "https://indianexpress.com/article/world/iran-leadership-crisis-mojtaba-khamenei-irgc-power-struggle-israel-war-10592665/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T20:41:32+00:00"
+      "published": "2026-03-20T14:41:32+00:00"
     },
     {
       "id": "fde7ada67596",
@@ -2463,7 +2472,7 @@
       "url": "https://indianexpress.com/article/world/a-diary-of-war-from-an-unlikely-author-the-son-of-irans-president-10592823/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T20:33:16+00:00"
+      "published": "2026-03-20T14:33:16+00:00"
     },
     {
       "id": "58fd94ebcc38",
@@ -2472,7 +2481,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/bihar-ias-upsc-power-society-patna-toppers-10592772/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T20:31:46+00:00"
+      "published": "2026-03-20T14:31:46+00:00"
     },
     {
       "id": "20546071c002",
@@ -2481,7 +2490,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-rolls-out-105-bonus-payout-to-employees-for-2025/articleshow/129702865.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T20:11:21+00:00"
+      "published": "2026-03-20T14:11:21+00:00"
     },
     {
       "id": "aa2bf9c160ef",
@@ -2490,7 +2499,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/if-india-scores-well-as-democracy-why-does-it-falter-as-a-republic-10592757/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T19:48:35+00:00"
+      "published": "2026-03-20T13:48:35+00:00"
     },
     {
       "id": "20ccb3acbf8f",
@@ -2499,7 +2508,7 @@
       "url": "https://www.thehindu.com/entertainment/movies/steve-boyes-interview-on-ghost-elephants/article70765488.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-20T19:44:52+00:00"
+      "published": "2026-03-20T13:44:52+00:00"
     },
     {
       "id": "4963c939e03a",
@@ -2508,7 +2517,7 @@
       "url": "https://indianexpress.com/article/world/norway-crown-princess-mette-marit-ties-jeffrey-epstein-10592646/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T19:39:57+00:00"
+      "published": "2026-03-20T13:39:57+00:00"
     },
     {
       "id": "9583a97dced5",
@@ -2517,7 +2526,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/tesla-expects-dutch-decision-on-self-driving-technology-by-april-10/articleshow/129701525.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T18:56:47+00:00"
+      "published": "2026-03-20T12:56:47+00:00"
     },
     {
       "id": "9e07c5e90a23",
@@ -2526,7 +2535,7 @@
       "url": "https://indianexpress.com/article/world/anthony-albanese-heckled-eid-prayers-sydney-gaza-protest-10592486/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T18:46:58+00:00"
+      "published": "2026-03-20T12:46:58+00:00"
     },
     {
       "id": "df356120d6cc",
@@ -2535,7 +2544,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/an-iftar-party-does-not-violate-the-all-embracing-ganga-10592570/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T18:25:07+00:00"
+      "published": "2026-03-20T12:25:07+00:00"
     },
     {
       "id": "c1d28edcdd30",
@@ -2544,7 +2553,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/ecolab-to-acquire-ai-data-center-cooling-tech-firm-for-4-75-billion/articleshow/129700816.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T18:22:50+00:00"
+      "published": "2026-03-20T12:22:50+00:00"
     },
     {
       "id": "c10daba94ef6",
@@ -2553,7 +2562,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/government-bans-300-betting-apps-online-gaming-act-2025-crackdown-10592482/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T18:21:43+00:00"
+      "published": "2026-03-20T12:21:43+00:00"
     },
     {
       "id": "1144be92fb37",
@@ -2562,7 +2571,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-20-2026-oppo-k14-5g-pro-3-valour-watch-1r-and-more-10592272/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T17:47:02+00:00"
+      "published": "2026-03-20T11:47:02+00:00"
     },
     {
       "id": "4f6defb5caab",
@@ -2571,7 +2580,7 @@
       "url": "https://indianexpress.com/article/technology/tech-reviews/asus-zenbook-s16-2026-review-10592441/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T17:42:47+00:00"
+      "published": "2026-03-20T11:42:47+00:00"
     },
     {
       "id": "8cf900a07173",
@@ -2580,7 +2589,7 @@
       "url": "https://www.thehindu.com/news/national/tamil-nadu/why-has-madras-high-court-ordered-eradication-of-seemai-karuvelam-explained/article70764207.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-20T17:21:21+00:00"
+      "published": "2026-03-20T11:21:21+00:00"
     },
     {
       "id": "891a9bd161bf",
@@ -2589,7 +2598,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/croma-ugadi-gudi-padwa-sale-2026-macbook-neo-rtx-50-series-laptop-tv-offers-10592145/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T17:20:53+00:00"
+      "published": "2026-03-20T11:20:53+00:00"
     },
     {
       "id": "8181b37e90c3",
@@ -2598,7 +2607,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/dark-web-fraud-sites-cracked-100s-of-suspects-europol/articleshow/129699354.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T17:16:14+00:00"
+      "published": "2026-03-20T11:16:14+00:00"
     },
     {
       "id": "83b98c73dfb9",
@@ -2607,7 +2616,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/china-to-allow-more-banks-to-handle-digital-yuan-sources-say/articleshow/129699218.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T17:10:53+00:00"
+      "published": "2026-03-20T11:10:53+00:00"
     },
     {
       "id": "11e3922a1bd9",
@@ -2616,7 +2625,7 @@
       "url": "https://www.thehindu.com/opinion/op-ed/indias-forests-as-the-roots-of-a-sustainable-bioeconomy/article70765290.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T17:01:47+00:00"
+      "published": "2026-03-20T11:01:47+00:00"
     },
     {
       "id": "0c4e95e63da8",
@@ -2625,7 +2634,7 @@
       "url": "https://www.thehindu.com/opinion/op-ed/a-tax-moratorium-to-enable-a-foreign-ai-invasion/article70765209.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T16:51:35+00:00"
+      "published": "2026-03-20T10:51:35+00:00"
     },
     {
       "id": "d401d4b4140d",
@@ -2634,7 +2643,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/govt-cracks-down-on-illegal-gambling-betting-websites-300-such-sites-apps-blocked/articleshow/129698758.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T16:51:21+00:00"
+      "published": "2026-03-20T10:51:21+00:00"
     },
     {
       "id": "52f3309af2b4",
@@ -2643,7 +2652,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/bytedance-agrees-to-sell-moonton-to-savvy-games-for-6-billion/articleshow/129698576.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T16:47:45+00:00"
+      "published": "2026-03-20T10:47:45+00:00"
     },
     {
       "id": "d89c4dadb8d9",
@@ -2652,7 +2661,7 @@
       "url": "https://www.thehindu.com/business/markets/rupee-crashes-23-paise-to-close-at-record-low-of-9263-against-us-dollar/article70757691.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-20T16:24:41+00:00"
+      "published": "2026-03-20T10:24:41+00:00"
     },
     {
       "id": "cc1d293e18dd",
@@ -2661,7 +2670,7 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-sparrow-day-ai-tool-for-awareness-and-conservation/article70762982.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-20T16:21:50+00:00"
+      "published": "2026-03-20T10:21:50+00:00"
     },
     {
       "id": "0c158b183854",
@@ -2670,7 +2679,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/amazon-smartphone-plan-alexa-integration-transformer-project/articleshow/129698867.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T16:21:41+00:00"
+      "published": "2026-03-20T10:21:41+00:00"
     },
     {
       "id": "726914811773",
@@ -2679,7 +2688,7 @@
       "url": "https://www.livemint.com/politics/news/shashi-tharoor-praises-modi-govt-s-diplomacy-bjp-amplifies-remarks-on-social-media-here-is-what-the-congress-mp-said-11774000247323.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-20T15:58:41+00:00"
+      "published": "2026-03-20T09:58:41+00:00"
     },
     {
       "id": "7e8b79d65907",
@@ -2688,7 +2697,7 @@
       "url": "https://indianexpress.com/article/world/iran-israel-war-mojtaba-khamenei-condolence-intelligence-minister-esmail-khatib-death-10592183/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T15:46:14+00:00"
+      "published": "2026-03-20T09:46:14+00:00"
     },
     {
       "id": "f220b32006c2",
@@ -2697,7 +2706,7 @@
       "url": "https://www.thehindu.com/opinion/open-page/process-is-the-punishment/article70755661.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T15:43:02+00:00"
+      "published": "2026-03-20T09:43:02+00:00"
     },
     {
       "id": "b732756a2f80",
@@ -2706,7 +2715,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/zomato-hikes-platform-fee-for-users-by-rs-2-40-per-order/articleshow/129697334.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T15:42:26+00:00"
+      "published": "2026-03-20T09:42:26+00:00"
     },
     {
       "id": "246a763fdb26",
@@ -2715,7 +2724,7 @@
       "url": "https://www.thehindu.com/opinion/open-page/the-book-fair-crowd/article70755660.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T15:42:23+00:00"
+      "published": "2026-03-20T09:42:23+00:00"
     },
     {
       "id": "64b6100c50d4",
@@ -2724,7 +2733,7 @@
       "url": "https://www.thehindu.com/opinion/open-page/how-the-gulf-war-is-affecting-gig-workers/article70755658.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T15:41:43+00:00"
+      "published": "2026-03-20T09:41:43+00:00"
     },
     {
       "id": "66942963b368",
@@ -2733,7 +2742,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-is-rewriting-the-rules-of-hiring-heres-how-10592152/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T15:33:54+00:00"
+      "published": "2026-03-20T09:33:54+00:00"
     },
     {
       "id": "a692bb01504b",
@@ -2742,7 +2751,7 @@
       "url": "https://indianexpress.com/article/world/al-aqsa-mosque-in-jerusalem-closed-for-eid-prayers-for-the-first-time-in-60-years-10592116/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T15:11:14+00:00"
+      "published": "2026-03-20T09:11:14+00:00"
     },
     {
       "id": "177680d19928",
@@ -2751,7 +2760,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/google-android-sideloading-apk-advanced-flow-24-hour-wait-explained-10591864/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T15:03:21+00:00"
+      "published": "2026-03-20T09:03:21+00:00"
     },
     {
       "id": "9ba71ec2342b",
@@ -2760,7 +2769,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/the-science-quiz-a-quiz-on-science-films-at-the-oscars-through-history/article70761069.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T14:54:07+00:00"
+      "published": "2026-03-20T08:54:07+00:00"
     },
     {
       "id": "88a253f82544",
@@ -2769,7 +2778,7 @@
       "url": "https://www.livemint.com/opinion/online-views/openai-anthropic-ai-companies-safety-staff-allocation-data-pentagon-deepmind-artificial-intelligence-11773993659470.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-20T14:37:50+00:00"
+      "published": "2026-03-20T08:37:50+00:00"
     },
     {
       "id": "1700cbfb0d98",
@@ -2778,7 +2787,7 @@
       "url": "https://indianexpress.com/article/world/lula-targets-trump-foreign-policy-war-cuba-venezuela-10591999/",
       "source": "Indian Express",
       "category": "International",
-      "published": "2026-03-20T14:34:22+00:00"
+      "published": "2026-03-20T08:34:22+00:00"
     },
     {
       "id": "91a1b35b8278",
@@ -2787,7 +2796,7 @@
       "url": "https://www.livemint.com/politics/news/telangana-presents-rs-3-24-lakh-cr-budget-for-2026-27-infra-push-poll-promises-among-key-highlights-11773994933052.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-20T14:33:33+00:00"
+      "published": "2026-03-20T08:33:33+00:00"
     },
     {
       "id": "fe64413de760",
@@ -2796,7 +2805,7 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-study-records-over-20-lichen-species-at-kochis-subhash-chandra-bose-park/article70759475.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-20T14:07:33+00:00"
+      "published": "2026-03-20T08:07:33+00:00"
     },
     {
       "id": "190843624ca7",
@@ -2805,7 +2814,7 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-pair-of-shaheen-falcons-have-chosen-a-kochi-highrise-to-build-their-nest/article70757704.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-20T14:06:25+00:00"
+      "published": "2026-03-20T08:06:25+00:00"
     },
     {
       "id": "6f34b4c88c23",
@@ -2814,7 +2823,7 @@
       "url": "https://www.livemint.com/opinion/online-views/gulf-war-fertilizer-crunch-china-india-global-hunger-urea-beijing-agriculture-farming-11773992529974.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-20T14:01:09+00:00"
+      "published": "2026-03-20T08:01:09+00:00"
     },
     {
       "id": "fc51732dfdad",
@@ -2823,7 +2832,7 @@
       "url": "https://indianexpress.com/article/technology/science/artemis-ii-how-to-watch-nasa-move-its-moon-rocket-to-launch-pad-live-10591920/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T13:37:47+00:00"
+      "published": "2026-03-20T07:37:47+00:00"
     },
     {
       "id": "8d65f2ae71f2",
@@ -2832,7 +2841,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-group-cfo-sriram-venkatraman-quits-amid-ecommerce-companys-ipo-plans/articleshow/129694999.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T13:25:41+00:00"
+      "published": "2026-03-20T07:25:41+00:00"
     },
     {
       "id": "c64843204cda",
@@ -2841,7 +2850,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/cbi-files-caveats-in-supreme-court-in-kejriwal-sisodia-slp-against-delhi-hc-order-in-excise-case/articleshow/129694824.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T13:19:44+00:00"
+      "published": "2026-03-20T07:19:44+00:00"
     },
     {
       "id": "d3984b43e3e0",
@@ -2850,7 +2859,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/closely-watching-iran-strait-of-hormuz-india-and-china-10591829/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T12:57:37+00:00"
+      "published": "2026-03-20T06:57:37+00:00"
     },
     {
       "id": "1ddc716168ff",
@@ -2859,7 +2868,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/strikes-on-iran-during-us-israel-christmas-yom-kippur-10591803/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T12:50:49+00:00"
+      "published": "2026-03-20T06:50:49+00:00"
     },
     {
       "id": "83feff935ee4",
@@ -2868,7 +2877,7 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-goals-vs-war-targets-green-humour-by-rohan-chakravarty/article70753113.ece",
       "source": "The Hindu",
       "category": "Environment",
-      "published": "2026-03-20T12:41:25+00:00"
+      "published": "2026-03-20T06:41:25+00:00"
     },
     {
       "id": "38339b351419",
@@ -2877,7 +2886,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/government-proposal-to-preload-aadhaar-app-on-phones-faced-pushback/article70764439.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T12:30:42+00:00"
+      "published": "2026-03-20T06:30:42+00:00"
     },
     {
       "id": "56978f340f3c",
@@ -2886,7 +2895,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/anti-establishment-x-accounts-withheld-in-india-as-takedowns-spread/article70762259.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T12:21:54+00:00"
+      "published": "2026-03-20T06:21:54+00:00"
     },
     {
       "id": "116df16e92e2",
@@ -2895,7 +2904,7 @@
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/cloudflare-ceo-matthew-prince-says-ai-traffic-could-surpass-human-activity-by-2027-10591705/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T12:01:08+00:00"
+      "published": "2026-03-20T06:01:08+00:00"
     },
     {
       "id": "b779f0006804",
@@ -2904,7 +2913,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/uttarakhand-cm-dhami-expands-cabinet-inducts-five-mlas/articleshow/129693242.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T11:56:37+00:00"
+      "published": "2026-03-20T05:56:37+00:00"
     },
     {
       "id": "b753ca912431",
@@ -2913,7 +2922,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/selfish-interests-desire-for-dominance-root-cause-of-global-conflicts-rss-chief-mohan-bhagwat/articleshow/129693376.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T11:55:44+00:00"
+      "published": "2026-03-20T05:55:44+00:00"
     },
     {
       "id": "e2eca3357032",
@@ -2922,7 +2931,7 @@
       "url": "https://www.thehindu.com/opinion/editorial/losing-the-way-on-isro-and-issues-with-its-navic-constellation/article70758366.ece",
       "source": "The Hindu",
       "category": "Editorial",
-      "published": "2026-03-20T11:44:45+00:00"
+      "published": "2026-03-20T05:44:45+00:00"
     },
     {
       "id": "66fc5a54cba8",
@@ -2931,7 +2940,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/ola-electric-reallocates-ipo-proceeds-again-diverts-rs-575-crore-from-rd-to-debt-growth/articleshow/129693180.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T11:44:14+00:00"
+      "published": "2026-03-20T05:44:14+00:00"
     },
     {
       "id": "b48af32191b4",
@@ -2940,7 +2949,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/great-crackdown-russia-tightens-the-screws-on-the-internet/articleshow/129693060.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T11:37:23+00:00"
+      "published": "2026-03-20T05:37:23+00:00"
     },
     {
       "id": "291ef26559f3",
@@ -2949,7 +2958,7 @@
       "url": "https://www.thehindu.com/opinion/editorial/fire-and-fury-on-the-ill-conceived-war-on-iran/article70762067.ece",
       "source": "The Hindu",
       "category": "Editorial",
-      "published": "2026-03-20T11:19:30+00:00"
+      "published": "2026-03-20T05:19:30+00:00"
     },
     {
       "id": "e3df79a07941",
@@ -2958,7 +2967,7 @@
       "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-israel-us-strikes-on-iran-west-asia-conflict-benjamin-netanyahu-donald-trump/article70764101.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-20T11:02:42+00:00"
+      "published": "2026-03-20T05:02:42+00:00"
     },
     {
       "id": "5bd6c6b9973c",
@@ -2967,7 +2976,7 @@
       "url": "https://www.thehindu.com/news/international/teenagers-sue-musks-xai-claiming-image-generator-made-sexually-explicit-images-of-them-as-minors/article70764255.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T10:45:53+00:00"
+      "published": "2026-03-20T04:45:53+00:00"
     },
     {
       "id": "13d860ec43b4",
@@ -2976,7 +2985,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/openclaw-is-the-next-chatgpt-nvidia-ceo-jensen-huang/articleshow/129692368.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T10:44:27+00:00"
+      "published": "2026-03-20T04:44:27+00:00"
     },
     {
       "id": "189e0b4abb8a",
@@ -2985,7 +2994,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/teenagers-sue-elon-musks-xai-claiming-image-generator-made-sexually-explicit-images-of-them-as-minors/articleshow/129692005.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T10:22:13+00:00"
+      "published": "2026-03-20T04:22:13+00:00"
     },
     {
       "id": "1e44b0c400e8",
@@ -2994,7 +3003,7 @@
       "url": "https://www.thehindu.com/opinion/op-ed/interviews-do-not-have-to-be-confrontational-to-be-newsworthy/article70762934.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T09:57:15+00:00"
+      "published": "2026-03-20T03:57:15+00:00"
     },
     {
       "id": "14af49a13cf1",
@@ -3003,7 +3012,7 @@
       "url": "https://economictimes.indiatimes.com/tech/technology/us-says-it-disrupted-botnets-that-infected-over-3-million-devices-worldwide/articleshow/129691661.cms",
       "source": "Economic Times",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:55:57+00:00"
+      "published": "2026-03-20T03:55:57+00:00"
     },
     {
       "id": "d5d7c41e93e9",
@@ -3012,7 +3021,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-report-10591562/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:54:43+00:00"
+      "published": "2026-03-20T03:54:43+00:00"
     },
     {
       "id": "dcef5df38994",
@@ -3021,7 +3030,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/nvidia-to-sell-1-million-chips-to-amazon-by-end-of-2027-in-cloud-deal-10591561/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:52:26+00:00"
+      "published": "2026-03-20T03:52:26+00:00"
     },
     {
       "id": "23ec12c463b9",
@@ -3030,7 +3039,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-to-buy-python-toolmaker-astral-to-take-on-anthropic-10591560/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:49:15+00:00"
+      "published": "2026-03-20T03:49:15+00:00"
     },
     {
       "id": "e26aa4fd13de",
@@ -3039,7 +3048,7 @@
       "url": "https://www.livemint.com/economy/india-crude-oil-brent-prices-strait-of-hormuz-scott-bessent-iran-sanctions-west-asia-conflict-lpg-crisis-11773975839140.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-20T09:42:12+00:00"
+      "published": "2026-03-20T03:42:12+00:00"
     },
     {
       "id": "babfd055be81",
@@ -3048,7 +3057,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/openai-chatgpt-revamp-python-buy/article70764152.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:41:29+00:00"
+      "published": "2026-03-20T03:41:29+00:00"
     },
     {
       "id": "83b1e13cb766",
@@ -3057,7 +3066,7 @@
       "url": "https://www.thehindu.com/opinion/op-ed/how-far-should-governments-go-in-using-ai/article70762892.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T09:40:53+00:00"
+      "published": "2026-03-20T03:40:53+00:00"
     },
     {
       "id": "76b8f797d2a7",
@@ -3066,7 +3075,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/animals-that-show-intentional-communication-is-not-just-human/article70764140.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:31:17+00:00"
+      "published": "2026-03-20T03:31:17+00:00"
     },
     {
       "id": "63ec2c434c3b",
@@ -3075,7 +3084,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/west-asia-war-syed-husain-zaheer-rrl-national-gas-grid/article70758449.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:06:37+00:00"
+      "published": "2026-03-20T03:06:37+00:00"
     },
     {
       "id": "2290341b6e91",
@@ -3084,7 +3093,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/tesla-talks-to-solar-equipment-makers-in-china/article70764098.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T09:01:22+00:00"
+      "published": "2026-03-20T03:01:22+00:00"
     },
     {
       "id": "06ce8a63c146",
@@ -3093,7 +3102,7 @@
       "url": "https://www.thehindu.com/opinion/lead/new-gdp-series-charting-the-path-ahead/article70762604.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T09:00:58+00:00"
+      "published": "2026-03-20T03:00:58+00:00"
     },
     {
       "id": "336370b63c7b",
@@ -3102,7 +3111,7 @@
       "url": "https://www.livemint.com/opinion/online-views/self-driving-cars-technology-rescue-urban-india-streets-traffic-v2x-toll-booths-gridlocks-11773946342249.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-20T08:30:24+00:00"
+      "published": "2026-03-20T02:30:24+00:00"
     },
     {
       "id": "a7b7aaf3672b",
@@ -3111,7 +3120,7 @@
       "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-hdfc-bank-chair-abrupt-exit-three-facts-could-reassure-its-stakeholders-11773944535013.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-20T07:31:04+00:00"
+      "published": "2026-03-20T01:31:04+00:00"
     },
     {
       "id": "3a7a015e470f",
@@ -3120,7 +3129,7 @@
       "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-march-20-1986-pm-on-punjab-10591162/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T07:30:59+00:00"
+      "published": "2026-03-20T01:30:59+00:00"
     },
     {
       "id": "e5e27342d0b8",
@@ -3129,7 +3138,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/best-of-both-sides-politics-has-caught-up-with-the-oscars-and-it-goes-deeper-than-just-the-speeches-10591194/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T06:45:13+00:00"
+      "published": "2026-03-20T00:45:13+00:00"
     },
     {
       "id": "3e3fd75b0621",
@@ -3138,7 +3147,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/best-of-both-sides-oscars-continue-to-prioritise-celebration-over-confrontation-10591185/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T06:43:50+00:00"
+      "published": "2026-03-20T00:43:50+00:00"
     },
     {
       "id": "ac3ef333740d",
@@ -3147,7 +3156,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/the-lessons-of-past-oil-crises-have-not-been-fully-learnt-10591200/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T06:43:33+00:00"
+      "published": "2026-03-20T00:43:33+00:00"
     },
     {
       "id": "c54d8c9a3f2b",
@@ -3156,7 +3165,7 @@
       "url": "https://indianexpress.com/article/opinion/editorials/the-languages-that-cannot-be-found-10591160/",
       "source": "Indian Express",
       "category": "Editorial",
-      "published": "2026-03-20T06:42:55+00:00"
+      "published": "2026-03-20T00:42:55+00:00"
     },
     {
       "id": "376d40be7b50",
@@ -3165,7 +3174,7 @@
       "url": "https://indianexpress.com/article/opinion/columns/motions-against-speaker-cec-point-to-a-wider-trust-deficit-that-is-the-real-worry-10591161/",
       "source": "Indian Express",
       "category": "Opinion",
-      "published": "2026-03-20T06:40:57+00:00"
+      "published": "2026-03-20T00:40:57+00:00"
     },
     {
       "id": "07b40106cda0",
@@ -3174,7 +3183,7 @@
       "url": "https://indianexpress.com/article/opinion/editorials/af-pak-open-war-risks-becoming-an-intractable-conflict-10591159/",
       "source": "Indian Express",
       "category": "Editorial",
-      "published": "2026-03-20T06:35:54+00:00"
+      "published": "2026-03-20T00:35:54+00:00"
     },
     {
       "id": "8fa535b60d0b",
@@ -3183,7 +3192,7 @@
       "url": "https://indianexpress.com/article/opinion/editorials/attacks-on-energy-infrastructure-bring-the-war-in-west-asia-closer-home-10591158/",
       "source": "Indian Express",
       "category": "Editorial",
-      "published": "2026-03-20T06:30:52+00:00"
+      "published": "2026-03-20T00:30:52+00:00"
     },
     {
       "id": "f2ad1c06187a",
@@ -3192,7 +3201,7 @@
       "url": "https://www.livemint.com/economy/india-secures-vital-imports-pharma-fertilizer-textile-manufacturing-future-11773917775743.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-20T06:10:42+00:00"
+      "published": "2026-03-20T00:10:42+00:00"
     },
     {
       "id": "32ddb1b1a402",
@@ -3201,7 +3210,7 @@
       "url": "https://www.livemint.com/politics/cuban-envoy-says-current-leaders-will-remain-despite-us-pressure-11773957609518.html",
       "source": "Livemint",
       "category": "National",
-      "published": "2026-03-20T04:00:08+00:00"
+      "published": "2026-03-19T22:00:08+00:00"
     },
     {
       "id": "549b0928bb9f",
@@ -3210,7 +3219,7 @@
       "url": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-20T02:50:48+00:00"
+      "published": "2026-03-19T20:50:48+00:00"
     },
     {
       "id": "ab67f862864e",
@@ -3219,7 +3228,7 @@
       "url": "https://www.thehindu.com/opinion/op-ed/ai-powered-tax-governance-in-india-and-its-challenges/article70762627.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-20T02:43:38+00:00"
+      "published": "2026-03-19T20:43:38+00:00"
     },
     {
       "id": "e946ad3b4ac2",
@@ -3228,7 +3237,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/india-should-be-among-the-top-three-ai-superpowers-globally-pm-modi/article70643283.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-20T01:48:05+00:00"
+      "published": "2026-03-19T19:48:05+00:00"
     },
     {
       "id": "cf0e1a5c3d73",
@@ -3237,7 +3246,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/delhi-high-court-grants-kejriwal-and-sisodia-one-week-to-respond-in-ed-case/articleshow/129686848.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-20T01:20:19+00:00"
+      "published": "2026-03-19T19:20:19+00:00"
     },
     {
       "id": "088378c1d033",
@@ -3246,7 +3255,7 @@
       "url": "https://www.thehindu.com/business/Economy/ppac-asked-to-collect-compile-analyse-data-about-domestic-fuel-and-energy-stocks/article70762717.ece",
       "source": "The Hindu",
       "category": "Economy",
-      "published": "2026-03-19T23:08:08+00:00"
+      "published": "2026-03-19T17:08:08+00:00"
     },
     {
       "id": "bbb6524b48e7",
@@ -3255,7 +3264,7 @@
       "url": "https://www.thehindu.com/opinion/letters/letters-to-the-editor-march-20-2026/article70761878.ece",
       "source": "The Hindu",
       "category": "Opinion",
-      "published": "2026-03-19T23:08:01+00:00"
+      "published": "2026-03-19T17:08:01+00:00"
     },
     {
       "id": "abb1fdf21466",
@@ -3264,7 +3273,7 @@
       "url": "https://economictimes.indiatimes.com/news/politics-and-nation/mns-chief-raj-thackeray-slams-centre-says-india-should-stand-by-iran/articleshow/129684082.cms",
       "source": "Economic Times",
       "category": "National",
-      "published": "2026-03-19T22:52:30+00:00"
+      "published": "2026-03-19T16:52:30+00:00"
     },
     {
       "id": "57cc5e69706c",
@@ -3273,7 +3282,7 @@
       "url": "https://www.livemint.com/economy/irans-caused-a-rates-crisis-for-the-world-s-central-banks-why-the-ecb-should-follow-the-fed-11773933177824.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-19T21:15:59+00:00"
+      "published": "2026-03-19T15:15:59+00:00"
     },
     {
       "id": "9a0a80872a06",
@@ -3282,7 +3291,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-chatbots-want-your-health-records-tread-carefully-10590812/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-19T20:51:23+00:00"
+      "published": "2026-03-19T14:51:23+00:00"
     },
     {
       "id": "c7898af84794",
@@ -3291,7 +3300,7 @@
       "url": "https://www.livemint.com/science/news/nasa-space-launch-artemis-2-moon-rocket-roll-out-march-19-20-five-big-update-11773929589615.html",
       "source": "Livemint",
       "category": "Science & Tech",
-      "published": "2026-03-19T20:41:53+00:00"
+      "published": "2026-03-19T14:41:53+00:00"
     },
     {
       "id": "c2c44e72892a",
@@ -3300,7 +3309,7 @@
       "url": "https://indianexpress.com/article/technology/mobile-tabs/oneplus-nord-6-launch-soon-heres-what-to-expect-from-the-rumoured-specs-10590238/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-19T19:53:08+00:00"
+      "published": "2026-03-19T13:53:08+00:00"
     },
     {
       "id": "17426624f606",
@@ -3309,7 +3318,7 @@
       "url": "https://indianexpress.com/article/technology/opinion-technology/nothing-phone-4a-pro-review-10590544/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-19T19:00:05+00:00"
+      "published": "2026-03-19T13:00:05+00:00"
     },
     {
       "id": "f2ae28c3af9a",
@@ -3318,7 +3327,7 @@
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-stitch-ai-design-tool-what-it-is-figma-impact-10590665/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-19T18:57:10+00:00"
+      "published": "2026-03-19T12:57:10+00:00"
     },
     {
       "id": "c748f2e64fc7",
@@ -3327,7 +3336,7 @@
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-chatbots-vs-human-interaction-loneliness-study-ubc-10590531/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-19T18:55:05+00:00"
+      "published": "2026-03-19T12:55:05+00:00"
     },
     {
       "id": "c3558803e182",
@@ -3336,7 +3345,7 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-generated-videos-distorting-child-youtube-feed-10590649/",
       "source": "Indian Express",
       "category": "Science & Tech",
-      "published": "2026-03-19T18:08:15+00:00"
+      "published": "2026-03-19T12:08:15+00:00"
     },
     {
       "id": "32256231e530",
@@ -3345,16 +3354,7 @@
       "url": "https://www.livemint.com/economy/russia-new-gulf-indian-migrant-workers-construction-jobs-11773912776382.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-19T17:47:34+00:00"
-    },
-    {
-      "id": "2cf931999f78",
-      "title": "‘Cosmic archaeology’: Meet PicII-503, the most chemically primitive star ever found outside the Milky Way",
-      "description": "",
-      "url": "https://indianexpress.com/article/technology/science/picii-503-the-most-chemically-primitive-star-ever-found-outside-milky-way-10590533/",
-      "source": "Indian Express",
-      "category": "Science & Tech",
-      "published": "2026-03-19T17:18:33+00:00"
+      "published": "2026-03-19T11:47:34+00:00"
     },
     {
       "id": "b7812e1e1a20",
@@ -3363,7 +3363,7 @@
       "url": "https://www.thehindu.com/sci-tech/health/life-saving-numbers-what-the-2026-us-cholesterol-guidelines-mean-for-everyone/article70749581.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-19T16:47:25+00:00"
+      "published": "2026-03-19T10:47:25+00:00"
     },
     {
       "id": "14620836dddb",
@@ -3372,7 +3372,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/indore-tragedy-why-do-ev-batteries-catch-fire-explained/article70761452.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-19T16:34:27+00:00"
+      "published": "2026-03-19T10:34:27+00:00"
     },
     {
       "id": "919d3d5ca44e",
@@ -3381,7 +3381,7 @@
       "url": "https://www.livemint.com/opinion/online-views/the-art-of-confrontation-workplace-conflict-goal-oriented-collaboration-soft-skills-employee-culture-11773836997233.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-19T16:30:51+00:00"
+      "published": "2026-03-19T10:30:51+00:00"
     },
     {
       "id": "12f04a9055e9",
@@ -3390,7 +3390,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/telangana-cyber-security-bureau-on-going-online-with-confidence/article70756601.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-19T15:57:36+00:00"
+      "published": "2026-03-19T09:57:36+00:00"
     },
     {
       "id": "ba212f68a92a",
@@ -3399,7 +3399,7 @@
       "url": "https://www.livemint.com/opinion/online-views/america-private-credit-boom-game-of-musical-chairs-liquidity-defaults-banking-loans-11773836947290.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-19T15:30:50+00:00"
+      "published": "2026-03-19T09:30:50+00:00"
     },
     {
       "id": "ed9a6fd4a331",
@@ -3408,7 +3408,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oneplus-launches-nord-buds-4-pro-with-spatial-audio-and-anc/article70761041.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-19T14:37:35+00:00"
+      "published": "2026-03-19T08:37:35+00:00"
     },
     {
       "id": "c785f1264ae6",
@@ -3417,7 +3417,7 @@
       "url": "https://www.livemint.com/opinion/online-views/ai-doom-or-boom-impact-technology-india-economy-it-jobs-artificial-intelligence-employment-11773836883562.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-19T14:30:49+00:00"
+      "published": "2026-03-19T08:30:49+00:00"
     },
     {
       "id": "15ee9f369627",
@@ -3426,7 +3426,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/gadgets/realme-launches-p4-lite-5g-smartphone-with-7000-mah-battery/article70760889.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-19T13:04:40+00:00"
+      "published": "2026-03-19T07:04:40+00:00"
     },
     {
       "id": "1806aaea9b6f",
@@ -3435,7 +3435,7 @@
       "url": "https://www.livemint.com/opinion/online-views/passive-euthanasia-media-coverage-end-of-life-care-special-guidelines-harish-rana-supreme-court-11773836797635.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-19T13:00:28+00:00"
+      "published": "2026-03-19T07:00:28+00:00"
     },
     {
       "id": "07355975b17f",
@@ -3444,7 +3444,7 @@
       "url": "https://www.thehindu.com/sci-tech/technology/apple-ios-vulnerability-chain-exposes-new-attack-pathway-researchers-say/article70760838.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-19T12:37:28+00:00"
+      "published": "2026-03-19T06:37:28+00:00"
     },
     {
       "id": "0ed9be15636a",
@@ -3453,7 +3453,7 @@
       "url": "https://www.livemint.com/opinion/online-views/himanshu-india-farm-sector-conflict-west-asia-agriculture-fertilizers-urea-lng-crude-oil-gas-11773836201406.html",
       "source": "Livemint",
       "category": "Opinion",
-      "published": "2026-03-19T12:31:08+00:00"
+      "published": "2026-03-19T06:31:08+00:00"
     },
     {
       "id": "035c4f5dcc5d",
@@ -3462,7 +3462,7 @@
       "url": "https://www.livemint.com/economy/india-rbi-backs-hdfc-bank-no-governance-concerns-chairman-resignation-11773899300829.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-19T12:07:56+00:00"
+      "published": "2026-03-19T06:07:56+00:00"
     },
     {
       "id": "0aaa9d15ce59",
@@ -3471,7 +3471,7 @@
       "url": "https://www.livemint.com/economy/why-india-is-pushing-to-cut-remittance-costs-wto-what-it-means-trade-global-financial-flows-11773893383323.html",
       "source": "Livemint",
       "category": "Economy",
-      "published": "2026-03-19T11:59:41+00:00"
+      "published": "2026-03-19T05:59:41+00:00"
     },
     {
       "id": "957c27090a75",
@@ -3480,7 +3480,7 @@
       "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-theory-of-evolution/article70760648.ece",
       "source": "The Hindu",
       "category": "Science & Tech",
-      "published": "2026-03-19T11:07:19+00:00"
+      "published": "2026-03-19T05:07:19+00:00"
     },
     {
       "id": "7892ac5e2d2c",
@@ -3489,115 +3489,7 @@
       "url": "https://www.thehindu.com/opinion/editorial/fire-and-more-fire-on-hospital-icu-fires-patient-safety/article70758382.ece",
       "source": "The Hindu",
       "category": "Editorial",
-      "published": "2026-03-19T10:36:23+00:00"
-    },
-    {
-      "id": "4338ec0c32d1",
-      "title": "A plausible three-cornered fight in Tamil Nadu",
-      "description": "The third player in Tamil Nadu electoral politics has always been a disruptor",
-      "url": "https://www.thehindu.com/opinion/op-ed/a-plausible-three-cornered-fight-in-tamil-nadu/article70759345.ece",
-      "source": "The Hindu",
-      "category": "Opinion",
-      "published": "2026-03-19T10:03:01+00:00"
-    },
-    {
-      "id": "a1e94538f6b0",
-      "title": "India’s future demographic challenges",
-      "description": "The growing elderly population is set to exert increasing pressure on healthcare and social security, thereby putting a strain on the state’s finances",
-      "url": "https://www.thehindu.com/opinion/op-ed/indias-future-demographic-challenges/article70759334.ece",
-      "source": "The Hindu",
-      "category": "Opinion",
-      "published": "2026-03-19T09:21:45+00:00"
-    },
-    {
-      "id": "01269c830827",
-      "title": "The opportunity in Cameroon to rebalance the WTO",
-      "description": "The World Trade Organization’s Ministerial Conference must ensure that trade is governed by rules rather than coercion",
-      "url": "https://www.thehindu.com/opinion/op-ed/the-opportunity-in-cameroon-to-rebalance-the-wto/article70759074.ece",
-      "source": "The Hindu",
-      "category": "Opinion",
-      "published": "2026-03-19T08:57:32+00:00"
-    },
-    {
-      "id": "adb7603b167f",
-      "title": "NCERT book ban, a chapter on judicial transparency",
-      "description": "The top court’s ban on an NCERT textbook exposes gaps in judicial accountability and public trust",
-      "url": "https://www.thehindu.com/opinion/lead/ncert-book-ban-a-chapter-on-judicial-transparency/article70759034.ece",
-      "source": "The Hindu",
-      "category": "Opinion",
-      "published": "2026-03-19T08:28:12+00:00"
-    },
-    {
-      "id": "e9f4545fdadd",
-      "title": "Oil surges 4% as Iran-Qatar energy hubs hit, fears of wider supply shock rise",
-      "description": "Oil prices surged over 4% as attacks on Iran’s South Pars gas field and Qatar’s Ras Laffan hub raised fears of wider disruptions to global energy supplies.",
-      "url": "https://www.livemint.com/economy/crude-oil-prices-india-energy-infrastructure-west-asia-conflict-south-pars-gas-field-india-imports-11773883877219.html",
-      "source": "Livemint",
-      "category": "Economy",
-      "published": "2026-03-19T08:06:18+00:00"
-    },
-    {
-      "id": "685380704e32",
-      "title": "The puzzle of IDBI Bank’s stalled privatization: Just what exactly is holding this sell-off back?",
-      "description": "The government’s decision to mark time on IDBI Bank’s privatization is puzzling. Its rationale is clear and the stage for its sell-off was set years ago. Low bids should not get in the way of the process as revenue maximization was never the idea.",
-      "url": "https://www.livemint.com/opinion/online-views/idbi-bank-stalled-privatization-disinvestment-nirmala-sitharaman-banking-india-low-bids-11773844487562.html",
-      "source": "Livemint",
-      "category": "Opinion",
-      "published": "2026-03-19T08:01:04+00:00"
-    },
-    {
-      "id": "a3fb0d380ca3",
-      "title": "Mint Quick Edit | Seat pricing rules: Is this intervention in India’s aviation market justified?",
-      "description": "The government has responded to passenger discontent by directing airlines to keep at least 60% of their flight seats free of any extra charge. Regulatory overreach? That depends on the market’s level of competition—and there isn’t enough.",
-      "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-seat-pricing-rules-india-aviation-market-air-india-airlines-passenger-11773845773467.html",
-      "source": "Livemint",
-      "category": "Opinion",
-      "published": "2026-03-19T07:30:43+00:00"
-    },
-    {
-      "id": "dabf161ff76e",
-      "title": "Remembering Len Deighton, spy writer who taught young men to cook",
-      "description": "",
-      "url": "https://indianexpress.com/article/opinion/editorials/remembering-len-deighton-spy-writer-who-taught-young-men-to-cook-10589483/",
-      "source": "Indian Express",
-      "category": "Editorial",
-      "published": "2026-03-19T06:46:08+00:00"
-    },
-    {
-      "id": "bc10666af41c",
-      "title": "Proposed changes to Transgender Persons Act turn back the clock on rights and dignity",
-      "description": "",
-      "url": "https://indianexpress.com/article/opinion/editorials/proposed-changes-to-transgender-persons-act-turn-back-the-clock-on-rights-and-dignity-10589482/",
-      "source": "Indian Express",
-      "category": "Editorial",
-      "published": "2026-03-19T06:35:07+00:00"
-    },
-    {
-      "id": "f1c91f619487",
-      "title": "Killing Iran’s leaders is fraught and escalatory",
-      "description": "",
-      "url": "https://indianexpress.com/article/opinion/editorials/killing-irans-leaders-is-fraught-and-escalatory-10589487/",
-      "source": "Indian Express",
-      "category": "Editorial",
-      "published": "2026-03-19T06:30:15+00:00"
-    },
-    {
-      "id": "a70b17e54174",
-      "title": "Fast-moving Meningitis outbreak kills young people in England. What to know about the deadly disease",
-      "description": "A fast-moving cluster of meningococcal disease centred in Canterbury has claimed two young lives and infected at least 20 people, prompting an emergency vaccination drive and a national public health alert — here is what you need to know.",
-      "url": "https://www.livemint.com/science/health/fastmoving-meningitis-outbreak-kills-young-people-in-england-what-to-know-about-the-deadly-disease-11773877553592.html",
-      "source": "Livemint",
-      "category": "Science & Tech",
-      "published": "2026-03-19T06:11:54+00:00"
-    },
-    {
-      "id": "3494666c4c2c",
-      "title": "Oil, gas firms ordered to share import, export data with PPAC",
-      "description": "All companies involved in the oil and gas supply chain including ‌oil producers, importers, refiners, fuel and gas retailers, liquefied ​natural gas importers, pipeline operators, and petrochemical plants were ordered to provide PPAC with data",
-      "url": "https://www.thehindu.com/business/Economy/oil-gas-firms-ordered-to-share-import-export-data-with-ppac/article70759528.ece",
-      "source": "The Hindu",
-      "category": "Economy",
-      "published": "2026-03-19T05:13:51+00:00"
+      "published": "2026-03-19T04:36:23+00:00"
     }
   ]
 }
